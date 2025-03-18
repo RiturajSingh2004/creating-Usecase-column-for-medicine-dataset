@@ -76,7 +76,7 @@ The script implements a two-pass approach:
 
 ```bash
 # Update input_file in the script to point to your dataset
-python medicine_usecase_processor.py
+python usecase.py
 ```
 
 ### Processing Large Datasets
