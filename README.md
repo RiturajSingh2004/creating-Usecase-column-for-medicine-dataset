@@ -18,6 +18,13 @@ This project addresses the challenge of enriching a large dataset (200,000+ medi
 
 ## 🔧 Technical Implementation
 
+### Download dataset
+Kaggle page: https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
+```bash
+curl -L -o ~/Downloads/az-medicine-dataset-of-india.zip\
+  https://www.kaggle.com/api/v1/datasets/download/shudhanshusingh/az-medicine-dataset-of-india
+```
+
 ### Prerequisites
 
 ```bash
