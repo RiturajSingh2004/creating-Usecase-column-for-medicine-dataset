@@ -4,7 +4,7 @@ A Python-based solution for enhancing a comprehensive Indian medicine dataset wi
 
 ## 📋 Project Overview
 
-This project addresses the challenge of enriching a large dataset (200,000+ medicines) with standardized medical usecase information. By leveraging Google's Gemini AI, the system automatically identifies and adds the specific symptoms and diseases each medicine treats, transforming raw pharmaceutical data into a more valuable and searchable resource.
+This project addresses the challenge of enriching a large dataset (200,000+ medicines) with standardized medical usecase information. By leveraging Google's Gemini AI, the system automatically identifies and adds the specific symptoms and diseases each medicine treats, transforming raw pharmaceutical data into a more valuable and searchable resource. (may contain missing values)
 
 ## 🌟 Features
 
