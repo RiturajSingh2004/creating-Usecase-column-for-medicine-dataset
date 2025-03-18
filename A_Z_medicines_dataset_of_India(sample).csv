@@ -1,0 +1,501 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+1,Augmentin 625 Duo Tablet,223.42,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+2,Azithral 500 Tablet,132.36,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+3,Ascoril LS Syrup,118,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) 
+4,Allegra 120mg Tablet,218.81,FALSE,Sanofi India  Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+5,Avil 25 Tablet,10.96,FALSE,Sanofi India  Ltd,allopathy,strip of 15 tablets,Pheniramine (25mg),
+6,Allegra-M Tablet,241.48,FALSE,Sanofi India  Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)
+7,Amoxyclav 625 Tablet,223.27,FALSE,Abbott,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+8,Azee 500 Tablet,132.38,FALSE,Cipla Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+9,Atarax 25mg Tablet,85.5,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 15 tablets,Hydroxyzine (25mg),
+10,Ascoril D Plus Syrup Sugar Free,129,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+11,Aciloc 150 Tablet,40.94,FALSE,Cadila Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Ranitidine (150mg),
+12,Alex Syrup,129,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+13,Anovate Cream,134.2,FALSE,USV Ltd,allopathy,tube of 20 gm Cream,Phenylephrine (0.10% w/w) , Beclometasone (0.025% w/w) 
+14,Augmentin Duo Oral Suspension,67.2,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+15,Ambrodil-S Syrup,30.2,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Salbutamol (1mg/5ml)
+16,Arkamin Tablet,72.65,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Clonidine (100mcg),
+17,Avomine Tablet,55.98,FALSE,Abbott,allopathy,strip of 10 tablets,Promethazine (25mg),
+18,Asthakind-DX Syrup Sugar Free,70.4,FALSE,Mankind Pharma Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+19,Allegra 180mg Tablet,251.2,FALSE,Sanofi India  Ltd,allopathy,strip of 10 tablets,Fexofenadine (180mg),
+20,Albendazole 400mg Tablet,9.58,FALSE,Cadila Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),
+21,Asthalin Syrup,19.04,FALSE,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Salbutamol (2mg/5ml),
+22,Alprax 0.25 Tablet,29,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg),
+23,Altraday Capsule SR,128,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsule sr,Aceclofenac (200mg) , Rabeprazole (20mg)
+24,Ativan 2mg Tablet,91.87,FALSE,Pfizer Ltd,allopathy,strip of 30 tablets,Lorazepam (2mg),
+25,Ascoril LS Junior Syrup,96,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Levosalbutamol (0.5mg/5ml) 
+26,Asthalin 100mcg Inhaler,157.85,FALSE,Cipla Ltd,allopathy,packet of 200 MDI Inhaler,Salbutamol (100mcg),
+27,Almox 500 Capsule,80.26,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+28,Atarax 10mg Tablet,47.91,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 15 tablets,Hydroxyzine (10mg),
+29,Aciloc RD 20 Tablet,77,FALSE,Cadila Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Domperidone (10mg) , Omeprazole (20mg)
+30,Aldactone Tablet,35.35,FALSE,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (25mg),
+31,Allegra Suspension Raspberry & Vanilla,188.78,FALSE,Sanofi India  Ltd,allopathy,bottle of 100 ml Oral Suspension,Fexofenadine (30mg/5ml),
+32,Atarax Syrup,110.25,TRUE,Dr Reddy's Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Hydroxyzine (10mg),
+33,Amlokind-AT Tablet,44.7,FALSE,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+34,Axcer  90mg Tablet,420,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 14 tablets,Ticagrelor (90mg),
+35,Ativan 1mg Tablet,75.67,FALSE,Pfizer Ltd,allopathy,strip of 30 tablets,Lorazepam (1mg),
+36,Alkasol Oral Solution,122.05,TRUE,Stadmed Pvt Ltd,allopathy,bottle of 100 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),
+37,Aldigesic P 100mg/325mg Tablet,110,FALSE,Alkem Laboratories Ltd,allopathy,strip of 15 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+38,Alfoo 10mg Tablet PR,687.75,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 30 Tablet pr,Alfuzosin (10mg),
+39,Alprax 0.5mg Tablet,66.9,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Alprazolam (0.5mg),
+40,Arachitol 6L Injection,407.76,FALSE,Abbott,allopathy,packet of 6 injections,Vitamin D3 (600000IU),
+41,Anafortan 25 mg/300 mg Tablet,124.56,FALSE,Abbott,allopathy,strip of 15 tablets,Camylofin (25mg) , Paracetamol (300mg)
+42,Alex Junior Syrup,95,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Dextromethorphan Hydrobromide (5mg/5ml)
+43,Azithral 200 Liquid,57.25,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),
+44,AB Phylline Capsule,162,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+45,Althrocin 500 Tablet,110.3,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Erythromycin (500mg),
+46,Augmentin DDS Suspension,173,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml)
+47,Azicip 500 Tablet,79.43,FALSE,Cipla Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+48,Aldigesic-SP Tablet,120,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+49,Amoxycillin 500mg Capsule,31.9,TRUE,Jagsonpal Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+50,Asthakind Expectorant Sugar Free,64.22,FALSE,Mankind Pharma Ltd,allopathy,bottle of 60 ml Expectorant,Guaifenesin (50mg) , Terbutaline (1.25mg) 
+51,Acemiz Plus Tablet,99.5,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+52,Aceclo Plus Tablet,90.85,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+53,Anobliss Cream,136.68,FALSE,Samarth Life Sciences Pvt Ltd,allopathy,tube of 30 gm Rectal Cream,Lidocaine (1.5% w/w) , Nifedipine (0.3% w/w)
+54,Alex Cough Lozenges Lemon Ginger,108,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 lozenges,Dextromethorphan Hydrobromide (5mg),
+55,Asthalin Respules,7.07,FALSE,Cipla Ltd,allopathy,packet of 2.5 ml Respules,Salbutamol (2.5mg),
+56,Avil Injection,21.17,FALSE,Sanofi India  Ltd,allopathy,vial of 10 ml Injection,Pheniramine (22.75mg),
+57,Azee 200mg Dry Syrup,52.31,FALSE,Cipla Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),
+58,Atorva Tablet,102.31,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Atorvastatin (10mg),
+59,Asthakind-LS Expectorant Cola Sugar Free,93.5,FALSE,Mankind Pharma Ltd,allopathy,bottle of 100 ml Expectorant,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) 
+60,Ascoril LS Drops,72,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Drops,Ambroxol (7.5mg/ml) , Levosalbutamol (0.25mg/ml) 
+61,Azmarda 50mg Tablet,1092.03,FALSE,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Sacubitril (24mg) , Valsartan (26mg)
+62,Amixide-H Tablet,51,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg)
+63,AB-Flo-N Tablet,207.25,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+64,AF Kit Tablet,110,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 4 tablets,Azithromycin (1000mg) , Ornidazole (750mg) 
+65,Amlokind 5 Tablet,22.15,FALSE,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),
+66,Amlong Tablet,48.55,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),
+67,Akt 4 Kit,24.7,FALSE,Lupin Ltd,allopathy,packet of 1 Kit,Isoniazid (300mg) , Rifampicin (450mg) 
+68,Ascoril D Junior Cough Syrup,98,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+69,Amitone 10mg Tablet,19.15,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+70,Aulin 100mg Tablet,50.56,FALSE,Elder Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg),
+71,Amikacin Sulphate 500mg Injection,11.87,TRUE,Sun Pharmaceutical Industries Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),
+72,Ambrodil-LX Syrup,90.85,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) 
+73,Aquasol A Capsule,29.6,FALSE,USV Ltd,allopathy,bottle of 30 capsules,Vitamin A (25000IU),
+74,AB Phylline SR 200 Tablet,252,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),
+75,Azoran Tablet,106.65,TRUE,RPG Life Sciences Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),
+76,Amaryl 1mg Tablet,133.81,FALSE,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (1mg),
+77,Aztor 10 Tablet,102.25,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg),
+78,Atorva 40 Tablet,239.89,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (40mg),
+79,Azax 500 Tablet,79.3,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+80,Alex Syrup Sugar Free,129,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+81,Anxit 0.5 Tablet,47,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Alprazolam (0.5mg),
+82,Anxit 0.25mg Tablet,20.5,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg),
+83,Acitrom 2 Tablet,414.65,FALSE,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (2mg),
+84,Angispan - TR 2.5mg Capsule,198,FALSE,USV Ltd,allopathy,bottle of 25 capsule tr,Nitroglycerin (2.5mg),
+85,Azeflo Nasal Spray,420.1,FALSE,Lupin Ltd,allopathy,packet of 7 ml Nasal Spray,Fluticasone Propionate (50mcg) , Azelastine (140mcg)
+86,Acemiz -MR Tablet,99.5,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+87,Akurit 4 Tablet,82.6,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Isoniazid (75mg) , Rifampicin (150mg) 
+88,Aerocort Inhaler,273.77,FALSE,Cipla Ltd,allopathy,packet of 200 MDI Inhaler,Levosalbutamol (50mcg) , Beclometasone (50mcg)
+89,Adaferin Gel,284,FALSE,Galderma India Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w),
+90,Acivir 400 DT Tablet,76.55,FALSE,Cipla Ltd,allopathy,strip of 5 tablet dt,Acyclovir (400mg),
+91,Aptimust Syrup,129.9,FALSE,Mankind Pharma Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml) , Tricholine Citrate (275mg/5ml) 
+92,Augmentin 1000 Duo Tablet,601.45,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (875mg) ,  Clavulanic Acid (125mg)
+93,Ambrodil Syrup,69.75,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml),
+94,Acogut Tablet,239.4,FALSE,Lupin Ltd,allopathy,strip of 15 tablets,Acotiamide (100mg),
+95,Atarax Drops,69.75,FALSE,Dr Reddy's Laboratories Ltd,allopathy,bottle of 15 ml Syrup,Hydroxyzine (6mg),
+96,Amlip 5 Tablet,32.36,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),
+97,AntiD 300mcg/ml Injection,3039.42,FALSE,Bharat Serums & Vaccines Ltd,allopathy,vial of 1 Injection,Anti Rh D Immunoglobulin (300mcg/ml),
+98,Alerid Syrup,21.84,FALSE,Cipla Ltd,allopathy,bottle of 30 ml Syrup,Cetirizine (5mg/5ml),
+99,Aldactone 50 Tablet,70.6,FALSE,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (50mg),
+100,Ampoxin 500 Capsule,88.9,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 capsules,Ampicillin (250mg) , Cloxacillin (250mg)
+101,Azee 250 Tablet,118.49,TRUE,Cipla Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),
+102,Alerid Tablet,20.48,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Cetirizine (10mg),
+103,Augmentin 375 Tablet,229,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+104,Acenac-P  Tablet,61,FALSE,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+105,Acivir Cream,72.53,FALSE,Cipla Ltd,allopathy,tube of 5 gm Cream,Acyclovir (5% w/w),
+106,AB-Flo Capsule,156.6,FALSE,Lupin Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+107,AB Phylline N Tablet,209,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+108,Amifru 40 Tablet,11.25,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Furosemide (40mg) , Amiloride (5mg)
+109,Avamys Nasal Spray,404.5,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,packet of 10 gm Nasal Spray,Fluticasone Furoate (0.05% w/w),
+110,Alkasol Oral Solution Sugar Free,122.05,FALSE,Stadmed Pvt Ltd,allopathy,bottle of 100 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),
+111,Aciloc 300 Tablet,50,FALSE,Cadila Pharmaceuticals Ltd,allopathy,strip of 20 tablets,Ranitidine (300mg),
+112,Aziderm 20% Cream,285,FALSE,Micro Labs Ltd,allopathy,tube of 15 gm Cream,Azelaic Acid (20% w/w),
+113,Ace Proxyvon Tablet,72.5,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+114,Avil Injection,5.66,FALSE,Sanofi India  Ltd,allopathy,vial of 2 ml Injection,Pheniramine (22.75mg),
+115,Ano Metrogyl Cream,121.41,FALSE,Lekar Pharma Ltd,allopathy,tube of 20 gm Rectal Cream,Lidocaine (4% w/w) , Metronidazole (1% w/w) 
+116,Admenta 5 Tablet,119,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Memantine (5mg),
+117,Aceclo-MR Tablet,88.65,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+118,Alerid-D Tablet,57.97,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Cetirizine (5mg) , Phenylephrine (10mg)
+119,Acemiz-S Tablet,115.44,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+120,Allercet-DC Tablet,80,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Cetirizine (10mg) , Phenylephrine (10mg)
+121,Aztolet  10 Tablet,170,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Clopidogrel (75mg)
+122,Amaryl 2mg Tablet,212.65,FALSE,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (2mg),
+123,Augmentin 1.2gm Injection,156.14,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,vial of 1 Powder for Injection,Amoxycillin  (1000mg) ,  Clavulanic Acid (200mg)
+124,Ambrodil-Plus RF Syrup,89.75,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Pseudoephedrine (30mg/5ml) 
+125,Amlopres-AT Tablet,148.59,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+126,Ajaduo 25mg/5mg Tablet,820,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Empagliflozin (25mg) , Linagliptin (5mg)
+127,Avanair 100 Tablet,220,FALSE,Cipla Ltd,allopathy,strip of 4 tablets,Avanafil (100mg),
+128,Acton-OR Tablet SR,50.55,FALSE,Apex Laboratories Pvt Ltd,allopathy,strip of 10 tablet ir,Paracetamol (300mg) , Paracetamol (700mg)
+129,Aquazide 12.5 Tablet,12.15,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg),
+130,Alaspan AM Tablet,98.8,FALSE,Bayer Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ambroxol (60mg) , Loratadine (5mg)
+131,Althrocin 250 Tablet,56.6,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Erythromycin (250mg),
+132,Azikem 500mg Tablet,71.7,FALSE,Alkem Laboratories Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+133,Aldosmin 500mg Tablet,137,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Diosmin (450mg) , Hesperidin (50mg)
+134,Amlovas 5 Tablet,48.55,FALSE,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),
+135,Acitrom 1 Tablet,264.74,FALSE,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (1mg),
+136,AF 150 Tablet DT,11.45,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet DT,Fluconazole (150mg),
+137,Ascoril SF Expectorant,135,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Expectorant,Guaifenesin (50mg) , Terbutaline (1.25mg) 
+138,Amaryl M  1mg Tablet PR,242.84,FALSE,Sanofi India  Ltd,allopathy,strip of 20 Tablet pr,Glimepiride (1mg) , Metformin (500mg)
+139,Azithral XL 200 Liquid,114.56,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (200mg/5ml),
+140,AF 400 Tablet,25.6,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (400mg),
+141,Amantrel Tablet,222.27,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Amantadine (100mg),
+142,Atorva 20 Tablet,247.78,FALSE,Zydus Cadila,allopathy,strip of 15 tablets,Atorvastatin (20mg),
+143,Acenac-MR Tablet,218,FALSE,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) 
+144,Ambrolite-S Expectorant,106,FALSE,Tablets India Limited,allopathy,bottle of 100 ml Expectorant,Ambroxol (30mg) , Guaifenesin (50mg) 
+145,Asthalin 4 Tablet,9.06,FALSE,Cipla Ltd,allopathy,strip of 30 tablets,Salbutamol (4mg),
+146,Abiways Tablet,167.5,FALSE,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+147,Amaryl M  2mg Tablet PR,363.34,FALSE,Sanofi India  Ltd,allopathy,strip of 20 Tablet pr,Glimepiride (2mg) , Metformin (500mg)
+148,Azoran Tablet,236.25,FALSE,RPG Life Sciences Ltd,allopathy,strip of 20 tablets,Azathioprine (50mg),
+149,Ampilox Capsule,151.35,FALSE,Biochem Pharmaceutical Industries,allopathy,strip of 15 capsules,Ampicillin (250mg) , Dicloxacillin (250mg)
+150,Adrenaline Tartrate Injection,14.52,FALSE,Harson Laboratories,allopathy,vial of 1 ml Injection,Adrenaline (NA),
+151,Acogut 300 ER Tablet,384.8,FALSE,Lupin Ltd,allopathy,strip of 10 tablet er,Acotiamide (300mg),
+152,Acuvin Tablet,227.66,FALSE,Abbott,allopathy,strip of 15 tablets,Paracetamol/Acetaminophen  (325mg) ,  Tramadol (37.5mg)
+153,AB-Flo SR Tablet,238.5,FALSE,Lupin Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),
+154,Air-M Tablet,69,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)
+155,Atorlip-F Tablet,366.75,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg) , Fenofibrate (145mg)
+156,Advent Forte 457mg Syrup Tangy Orange,193.74,FALSE,Cipla Ltd,allopathy,bottle of 30 ml Syrup,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml)
+157,Amlodac 5 Tablet,97.1,FALSE,Zydus Cadila,allopathy,strip of 30 tablets,Amlodipine (5mg),
+158,Aztor 40 Tablet,359.8,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (40mg),
+159,Ascoril Plus Expectorant,182,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 200 ml Expectorant,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) 
+160,Alupent 10mg Tablet,52.5,TRUE,Zydus Cadila,allopathy,strip of 10 tablets,Orciprenaline (10mg),
+161,Amlip AT Tablet,72.6,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg)
+162,Asthakind-P Drops,62,FALSE,Mankind Pharma Ltd,allopathy,packet of 15 ml Oral Drops,Ambroxol (7.5mg) , Guaifenesin (12.5mg) 
+163,Allegra Nasal Spray,361,FALSE,Sanofi India  Ltd,allopathy,bottle of 120 MDI Nasal Spray,Fluticasone Furoate (27.5mcg),
+164,Addnok 0.2mg Tablet,76.6,FALSE,Rusan Pharma Ltd,allopathy,strip of 20 tablets,Buprenorphine (0.2mg),
+165,Aldosmin 1000mg Tablet,238,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Diosmin (900mg) , Hesperidin (100mg)
+166,Andre I-Kul Eye Drop,73.5,FALSE,Intas Pharmaceuticals Ltd,allopathy,packet of 10 ml Eye Drop,Camphor (0.01% w/v) , Menthol (0.005% w/v) 
+167,Antiflu 75mg Capsule,726.72,FALSE,Cipla Ltd,allopathy,strip of 10 capsules,Oseltamivir Phosphate (75mg),
+168,Alerfix Total Tablet SR,262.02,FALSE,Eris Lifesciences Ltd,allopathy,strip of 15 tablet sr,Ambroxol (75mg) , Levocetirizine (5mg) 
+169,Alex-L Cough Syrup Mango,129,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Oral Suspension,Levocloperastine (20mg/5ml),
+170,Atropine Sulphate Injection,11.25,TRUE,Samarth Life Sciences Pvt Ltd,allopathy,vial of 10 ml Injection,Atropine (0.6mg),
+171,Aquaviron Injection 1ml,194.49,FALSE,Abbott,allopathy,vial of 1 Injection,Testosterone (25mg),
+172,Aciclovir 400 Tablet,67.42,FALSE,Care Formulation Labs Pvt Ltd,allopathy,strip of 5 tablets,Acyclovir (400mg),
+173,Alkof DX Syrup,110,FALSE,Alkem Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Chlorpheniramine Maleate (4mg) , Dextromethorphan Hydrobromide (10mg)
+174,ATM 500 Tablet,132.38,FALSE,Indoco Remedies Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+175,Assurans Tablet,200,TRUE,Cipla Ltd,allopathy,strip of 10 tablets,Sildenafil (20mg),
+176,Ambrolite D Syrup,118,FALSE,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+177,Actrapid HM 100IU/ml Penfill,350.9,FALSE,Novo Nordisk India Pvt Ltd,allopathy,penfill of 3 ml Solution for Injection,Human insulin (100IU),
+178,Aten 50 Tablet,31.04,FALSE,Zydus Cadila,allopathy,strip of 14 tablets,Atenolol (50mg),
+179,Azmarda 100mg Tablet,1169.05,FALSE,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Sacubitril (49mg) , Valsartan (51mg)
+180,Asthalin AX Syrup,104.67,FALSE,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) 
+181,Alzolam 0.5mg Tablet,36.5,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg),
+182,A Kare Combipack,595,FALSE,DKT India Ltd,allopathy,packet of 1 Kit,Mifepristone (200mg) , Misoprostol (200mcg)
+183,Ambulax Tablet,101.25,FALSE,Unimarck Pharma India Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg) , Propranolol (20mg)
+184,Amlovas-AT Tablet,106,FALSE,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+185,Asthakind-DX Junior Syrup Cherry,60.5,FALSE,Mankind Pharma Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (2.5mg/5ml) , Chlorpheniramine Maleate (1mg/5ml) 
+186,Advent 228.5mg Dry Syrup,67.2,FALSE,Cipla Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg/5ml) ,  Clavulanic Acid (28.5mg/5ml)
+187,Acivir 800 DT Tablet,246.23,FALSE,Cipla Ltd,allopathy,strip of 5 tablet dt,Acyclovir (800mg),
+188,Alfusin Tablet PR,298.67,FALSE,Cipla Ltd,allopathy,strip of 15 Tablet pr,Alfuzosin (10mg),
+189,Aziwok 500 Tablet,132.36,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+190,Alkacitral Liquid,111.35,TRUE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (1.25gm/5ml),
+191,Almox-CV 625 Tablet,116.51,FALSE,Cachet Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+192,Azithral 100 Liquid,46.3,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (20mg/ml),
+193,Azee 100mg Dry Syrup Peppermint,45.88,FALSE,Cipla Ltd,allopathy,bottle of 15 ml Suspension,Azithromycin (100mg/5ml),
+194,Ace-Proxyvon CR Tablet,143.25,FALSE,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablet cr,Aceclofenac (200mg) , Rabeprazole (20mg)
+195,Ascoril C  Syrup,174,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 120 ml Syrup,Chlorpheniramine Maleate (4mg) , Codeine (10mg)
+196,Aprezo 30mg Tablet,295.5,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Apremilast (30mg),
+197,Apidra 100IU Cartridge,761,FALSE,Sanofi India  Ltd,allopathy,cartridge of 3 ml Solution for Injection,Insulin Glulisine (100IU),
+198,Amlosafe 3D Tablet,67.2,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 7 tablets,Telmisartan (40mg) , Amlodipine (5mg) 
+199,Andial 2mg Tablet,24.5,FALSE,Veritaz Healthcare Ltd,allopathy,strip of 10 tablets,Loperamide (2mg),
+200,Acenext P 100mg/325mg Tablet,58,FALSE,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+201,Acnesol A Nano Gel,206,FALSE,Systopic Laboratories Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+202,Ascoril Flu Syrup,87.5,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Phenylephrine (5mg/5ml)
+203,Asomex 2.5 Tablet,100.2,FALSE,Emcure Pharmaceuticals Ltd,allopathy,strip of 15 tablets,S-Amlodipine (2.5mg),
+204,Angiplat 2.5 Capsule TR,162.5,FALSE,Micro Labs Ltd,allopathy,bottle of 25 capsule tr,Nitroglycerin (2.5mg),
+205,Alkof Cofgel  Tablet,28,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Guaifenesin (NA) , Bromhexine (NA) 
+206,Azithral 250mg DT Tablet,131.2,TRUE,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet dt,Azithromycin (250mg),
+207,Alzolam 0.25mg Tablet,17.45,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg),
+208,Advent 625 Tablet,223.44,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+209,Alsita M 50mg/500mg Tablet,89,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Sitagliptin  (50mg) ,  Metformin (500mg)
+210,Axogurd-SR Tablet,175.25,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Methylcobalamin (1500mcg) , Pregabalin (75mg)
+211,Azoflox UTI Tablet,135,FALSE,Mac Millon Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Flavoxate (200mg)
+212,Azulix 2 MF Tablet PR,225,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (500mg)
+213,Amaryl MV 2mg Tablet SR,213.42,FALSE,Sanofi India  Ltd,allopathy,strip of 15 tablet sr,Glimepiride (2mg) , Metformin (500mg) 
+214,Azulix 1 MF Tablet PR,155,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (500mg)
+215,Aten 25 Tablet,27.9,FALSE,Zydus Cadila,allopathy,strip of 14 tablets,Atenolol (25mg),
+216,Azibact 500 Tablet,132.37,FALSE,Ipca Laboratories Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+217,Amlopres TL Tablet,121.97,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+218,Ambrolite Syrup,82,FALSE,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml),
+219,Actapro Tablet,120,TRUE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Acotiamide (100mg),
+220,Aztor 20 Tablet,247.75,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (20mg),
+221,Alkof Syrup,85,FALSE,Alkem Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Guaifenesin (50mg) , Terbutaline (1.25mg) 
+222,Atorfit CV 10 Capsule,297,FALSE,Ajanta Pharma Ltd,allopathy,strip of 15 capsules,Atorvastatin (10mg) , Clopidogrel (75mg)
+223,Acnesol Gel,87,FALSE,Systopic Laboratories Pvt Ltd,allopathy,tube of 20 gm Gel,Clindamycin (1% w/w),
+224,Amtas 5 Tablet,97.1,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),
+225,Alrgee 120mg Tablet,33.25,FALSE,Morepen Laboratories Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+226,Avil 50mg Tablet,12.11,FALSE,Sanofi India  Ltd,allopathy,strip of 15 tablets,Pheniramine (50mg),
+227,Arip MT 5 Tablet,133,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Aripiprazole (5mg),
+228,Alivher Tablet,215,FALSE,Akumentis Healthcare Ltd,allopathy,strip of 10 tablets,Sildenafil (25mg),
+229,Apdrops LP  Eye Drop BAK Free,209,FALSE,Ajanta Pharma Ltd,allopathy,bottle of 5 ml Eye Drop,Loteprednol etabonate (0.5% w/v) , Moxifloxacin (0.5% w/v)
+230,Amrox-LS Syrup,75,FALSE,Leeford Healthcare Ltd,allopathy,bottle of 60 ml Expectorant,Ambroxol (30mg) , Levosalbutamol (1mg) 
+231,Altonil 3mg Tablet,82.04,FALSE,Alteus Biogenics Pvt Ltd,allopathy,strip of 15 tablets,Melatonin (3mg),
+232,Allercet Cold Tablet,77,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (10mg) 
+233,Atorlip 10 Tablet,102.31,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg),
+234,Admenta 10 Tablet,208,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Memantine (10mg),
+235,Amox 500mg Capsule,60.48,FALSE,Synchem Lab,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+236,Azee 250 Tablet,78.75,FALSE,Cipla Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),
+237,Asthalin Respirator Solution,13.1,FALSE,Cipla Ltd,allopathy,bottle of 15 ml Solution for inhalation,Salbutamol (5mg),
+238,Add Tears Lubricant Eye Drop,135.25,FALSE,Cipla Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+239,Almox 250 Capsule,24.72,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg),
+240,Aztor Asp 75 Capsule,38.5,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Aspirin (75mg)
+241,Alkacip Syrup,77,FALSE,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (1.53gm/5ml),
+242,Arbitel-Trio 50 Tablet ER,146,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablet er,Cilnidipine (10mg) , Metoprolol Succinate (50mg) 
+243,Acivir 200 DT Tablet,84.22,FALSE,Cipla Ltd,allopathy,strip of 10 tablet dt,Acyclovir (200mg),
+244,Augmentin ES Oral Suspension,203.28,FALSE,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 50 ml Oral Suspension,Amoxycillin  (600mg/5ml) ,  Clavulanic Acid (42.9mg/5ml)
+245,Amrolstar Cream,235.71,FALSE,Oaknet Healthcare Pvt Ltd,allopathy,tube of 30 gm Cream,Amorolfine (0.25% w/w),
+246,Adalene Nanogel Gel,325,FALSE,Zydus Cadila,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+247,Apigat 2.5 Tablet,720,FALSE,Natco Pharma Ltd,allopathy,bottle of 30 tablets,Apixaban (2.5mg),
+248,Aeromont-B Tablet,90,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Bilastine (20mg) , Montelukast (10mg)
+249,Amlopres 5 Tablet,97.1,FALSE,Cipla Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),
+250,Abevia-N Tablet,167.5,FALSE,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+251,Acamprol Tablet,105.5,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 6 tablets,Acamprosate (333mg),
+252,Ancool  Oral Suspension Sugar Free,139.4,FALSE,Zuventus Healthcare Ltd,allopathy,bottle of 170 ml Oral Suspension,Aluminium Hydroxide (300mg/5ml) , Milk Of Magnesia (150mg/5ml) 
+253,Atormac CV10 Capsule,203,FALSE,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Clopidogrel (75mg)
+254,Apdrops PD Eye Drop,43.72,FALSE,Ajanta Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Moxifloxacin (0.5% w/v) , Prednisolone (1% w/v)
+255,Amnurite  10 Tablet SR,140.9,FALSE,Health N U Therapeutics Pvt Ltd,allopathy,strip of 10 tablet sr,Amitriptyline (10mg) , Methylcobalamin (1500mcg)
+256,Atonide Gel,125,FALSE,Curatio Healthcare India Pvt Ltd,allopathy,tube of 20 gm Gel,Desonide (0.05% w/w),
+257,Amlong-A Tablet,145,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+258,Acivir 500 Infusion,514.79,FALSE,Cipla Ltd,allopathy,vial of 1 Infusion,Acyclovir (500mg),
+259,AF-K Lotion,188,FALSE,Systopic Laboratories Pvt Ltd,allopathy,bottle of 100 ml Lotion,Ketoconazole (2% w/v) , Zinc pyrithione (1% w/v)
+260,Amoxyclav 375 Tablet,356.92,FALSE,Abbott,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+261,Abd 400mg Tablet,9.58,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),
+262,Amlong 2.5 Tablet,30.91,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (2.5mg),
+263,Alburel 20gm Solution for Infusion,7325.23,FALSE,Reliance Life Sciences,allopathy,bottle of 100 ml Injection,Albumin (20%),
+264,Anacin Tablet,22.5,TRUE,Pfizer Ltd,allopathy,strip of 10 tablets,Caffeine (50mg) , Paracetamol (500mg)
+265,Azithro 250mg Tablet,57.08,FALSE,Ind Swift Laboratories Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),
+266,Azimax 500 Tablet,119.5,FALSE,Cipla Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+267,Amlosafe-AT Tablet,68,TRUE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg)
+268,Air 180 Tablet,59,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Fexofenadine (180mg),
+269,Adilip 135 Tablet DR,202,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 Tablet DR,Choline fenofibrate (135mg),
+270,Apdrops Eye Drop,184.5,FALSE,Ajanta Pharma Ltd,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),
+271,Amlosafe 5 Tablet,28.16,TRUE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),
+272,Apigat 5 Tablet,855,FALSE,Natco Pharma Ltd,allopathy,bottle of 30 tablets,Apixaban (5mg),
+273,Amlogard 5mg Tablet,91.86,FALSE,Pfizer Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),
+274,Amaryl MV 1mg Tablet SR,168.39,FALSE,Sanofi India  Ltd,allopathy,strip of 15 tablet sr,Glimepiride (1mg) , Metformin (500mg) 
+275,Azee 500 Tablet,79.43,FALSE,Cipla Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+276,ALERGIN L TABLET,45,TRUE,Cipla Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+277,Aciloc Injection,6.03,FALSE,Cadila Pharmaceuticals Ltd,allopathy,vial of 2 ml Injection,Ranitidine (25mg),
+278,Alex P Syrup,98,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (0.5mg/5ml) , Paracetamol (125mg/5ml) 
+279,AZR Tablet,118.23,FALSE,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),
+280,Angicam-Beta Tablet,37,FALSE,Blue Cross Laboratories Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+281,Amicobal 10mg/1500mcg Tablet,165,FALSE,Ergos Life Sciences,allopathy,strip of 10 tablets,Amitriptyline (10mg) , Methylcobalamin (1500mcg)
+282,Actibile 300 Tablet,398.3,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),
+283,Ambrolite Levo Syrup,107,FALSE,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) 
+284,Amaryl M Forte 2mg Tablet PR,276.3,FALSE,Sanofi India  Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (1000mg)
+285,Acivir Cream,146.41,FALSE,Cipla Ltd,allopathy,tube of 10 gm Cream,Acyclovir (5% w/w),
+286,Azicip 250 Tablet,106,TRUE,Cipla Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),
+287,Algesia CR 200mg/20mg Capsule,121,FALSE,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Aceclofenac (200mg) , Rabeprazole (20mg)
+288,Ascoril Expectorant,142,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 200 ml Expectorant,Bromhexine (4mg) , Guaifenesin (100mg) 
+289,Atorva 80 Tablet,644.25,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (80mg),
+290,Acitrom 4 Tablet,565.25,FALSE,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (4mg),
+291,Alsita 100mg Tablet,99,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Sitagliptin (100mg),
+292,Amnurite  5 mg/1500 mcg Tablet,126.4,FALSE,Health N U Therapeutics Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (5mg) , Methylcobalamin (1500mcg)
+293,Airz Capsule,537,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,packet of 30 capsules,Glycopyrrolate (50mcg),
+294,Asomex 5 Tablet,156.2,FALSE,Emcure Pharmaceuticals Ltd,allopathy,strip of 15 tablets,S-Amlodipine (5mg),
+295,Axcer  90mg Tablet,3600,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 180 tablets,Ticagrelor (90mg),
+296,Anaspas Tablet,92.49,TRUE,Abbott,allopathy,strip of 10 tablets,Camylofin (50mg) , Diclofenac (50mg)
+297,Ascabiol Emulsion,109.17,TRUE,Abbott,allopathy,bottle of 100 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v)
+298,Addwize 10mg Tablet,127,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Methylphenidate (10mg),
+299,Ascoril Plus Expectorant,129,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 120 ml Expectorant,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) 
+300,Amlong 10 Tablet,94.58,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (10mg),
+301,Abd Plus Tablet,37,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Ivermectin  (6mg) ,  Albendazole (400mg)
+302,Allercet-M Tablet,152,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+303,Augpen -DS Suspension,149.7,FALSE,Zuventus Healthcare Ltd,allopathy,bottle of 30 ml Suspension,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml)
+304,Althrocin Liquid,59.35,FALSE,Alembic Pharmaceuticals Ltd,allopathy,bottle of 60 ml Oral Suspension,Erythromycin (125mg/5ml),
+305,Atocor 10 Tablet,102.02,TRUE,Dr Reddy's Laboratories Ltd,allopathy,strip of 14 tablets,Atorvastatin (10mg),
+306,Augpen 625 BID Tablet,216.28,FALSE,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+307,Atchol-F Tablet,98,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Fenofibrate (160mg)
+308,Alensol-D Tablet,267,FALSE,Medsol India Overseas Pvt Ltd,allopathy,strip of 4 tablets,Alendronic Acid (70mg) , Vitamin D3 (5600IU)
+309,Arbitel-Trio 25 Tablet ER,118,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablet er,Cilnidipine (10mg) , Metoprolol Succinate (25mg) 
+310,Acivir Eye Ointment,58.11,FALSE,Cipla Ltd,allopathy,tube of 5 gm Eye Ointment,Acyclovir (3% w/w),
+311,Aceclo Tablet,52.55,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg),
+312,Actrapid 100 IU/ml Flexpen,569.8,FALSE,Novo Nordisk India Pvt Ltd,allopathy,flexpen of 3 ml Solution for Injection,Human insulin (100IU),
+313,Amitone 25mg Tablet,27.54,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg),
+314,Anafortan Syrup,101.73,FALSE,Abbott,allopathy,bottle of 60 ml Syrup,Camylofin (12.5mg/5ml) , Paracetamol (125mg/5ml)
+315,Acera-D Capsule SR,118.45,FALSE,Ipca Laboratories Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+316,Aerodil SF Expectorant,118.5,FALSE,Zydus Cadila,allopathy,bottle of 100 ml Expectorant,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+317,Aculip H 12.5 mg/5 mg Tablet,73.2,FALSE,Shine Pharmaceuticals Ltd,allopathy,strip of 20 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg)
+318,Aztolet  20 Tablet,246,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg) , Clopidogrel (75mg)
+319,Amlopin 5 Tablet,32.37,FALSE,USV Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),
+320,Arimidex 1mg Tablet,3435,TRUE,AstraZeneca,allopathy,strip of 14 tablets,Anastrozole (1mg),
+321,Alzil-M 5 Tablet,192,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Donepezil (5mg) , Memantine (5mg)
+322,Acuvert Tablet,73.52,FALSE,Abbott,allopathy,strip of 9 tablets,Prochlorperazine (5mg),
+323,Alciflox 500mg Tablet,45.29,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+324,Azax 250 Tablet,71.02,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),
+325,Aceclo Spas Tablet,125.9,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Aceclofenac (100mg)
+326,Asthakind-LS Drop,60,FALSE,Mankind Pharma Ltd,allopathy,bottle of 15 ml Oral Drops,Ambroxol (NA) , Levosalbutamol (NA) 
+327,Ascabiol Emulsion,144.1,FALSE,Abbott,allopathy,bottle of 120 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v)
+328,Alphadol 0.25mcg Capsule,109,FALSE,Panacea Biotec Ltd,allopathy,strip of 10 soft gelatin capsules,Alfacalcidol (0.25mcg),
+329,Alex Cough Lozenges Sugar Free,111,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 lozenges,Dextromethorphan Hydrobromide (5mg),
+330,Arip MT 10 Tablet,105.5,TRUE,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),
+331,Anabel Liquid Gel,100,FALSE,Group Pharmaceuticals Ltd,allopathy,bottle of 15 gm Dental Gel,Choline Salicylate (8.7% w/w) , Lidocaine (2% w/w)
+332,Aricep 5 Tablet,138,FALSE,Eisai Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 tablets,Donepezil (5mg),
+333,Amlosafe-AT Tablet,102,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+334,Aceclo SR Tablet,77.3,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Aceclofenac (200mg),
+335,Azopt Opthalmic Suspension,547,FALSE,Alcon Laboratories,allopathy,bottle of 5 ml Eye Drop,Brinzolamide (1% w/v),
+336,Amitop 10 Tablet,25.19,FALSE,Tas Med India Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+337,Ambulax M Tablet,89.25,FALSE,Unimarck Pharma India Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg) , Propranolol (10mg)
+338,Alcipro 500mg Tablet,40.53,TRUE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+339,Assurans Tablet,350.09,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Sildenafil (20mg),
+340,Augpen LB 625 Tablet,439.8,FALSE,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Amoxycillin (500mg) , Clavulanic Acid (125mg) 
+341,Alkaliser Syrup,45,FALSE,Life Sciences Inc,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (NA),
+342,Aquaviron 40mg Capsule,193.6,FALSE,Abbott,allopathy,strip of 10 capsules,Testosterone (40mg),
+343,Angiwell 2.6mg Tablet,197.6,FALSE,Corona Remedies Pvt Ltd,allopathy,packet of 30 tablets,Nitroglycerin (2.6mg),
+344,Anaflam TH  4  Tablet,180.83,FALSE,Albert David Ltd,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) 
+345,Alzil 5 Tablet,130.38,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Donepezil (5mg),
+346,Amlo 5mg Tablet,24.4,FALSE,Mano Pharma Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),
+347,Asthalin Plus Expectorant,95.16,FALSE,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Levosalbutamol (0.5mg/5ml) 
+348,Ascabiol Emulsion,86.68,FALSE,Abbott,allopathy,bottle of 60 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v)
+349,Amitone Plus Tablet,37.5,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg)
+350,Akt 2 Tablet,103.6,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Rifampicin (450mg) , Isoniazid (300mg)
+351,Alex Plus Paediatric Oral Drops,73,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,packet of 15 ml Oral Drops,Chlorpheniramine Maleate (2mg/ml) , Phenylephrine (2.5mg/ml)
+352,Antacid Tablet,2,FALSE,Bevit Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aluminium Hydroxide (250mg) , Magnesium (250mg) 
+353,Apresol Tablet,145.64,FALSE,Ordain Health Care Global Pvt Ltd,allopathy,strip of 15 tablets,Dihydralazine (25mg),
+354,Atchol 40 Tablet,96.22,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (40mg),
+355,Amlong-H Tablet,115,FALSE,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Hydrochlorothiazide (12.5mg)
+356,Airz-FF Capsule,535,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 30 capsules,Glycopyrrolate (12.5mcg) , Formoterol (12mcg) 
+357,Arflur 3D Tablet,74.75,FALSE,FDC Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) 
+358,Azmarda 200mg Tablet,669.38,FALSE,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 7 tablets,Sacubitril (97mg) , Valsartan (103mg)
+359,Amixide 10mg Tablet,63.5,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg) , Chlordiazepoxide (10mg)
+360,Avomine 25mg Tablet MD,24.58,TRUE,Abbott,allopathy,strip of 8 tablet md,Promethazine (25mg),
+361,Arpizol 2mg Tablet,64,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Aripiprazole (2mg),
+362,Ascodex Cough Syrup,23.12,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Dextromethorphan Hydrobromide (5mg) 
+363,Aerocort Forte Rotacap,95.16,FALSE,Cipla Ltd,allopathy,packet of 30 rotacaps,Levosalbutamol (100mcg) , Beclometasone (200mcg)
+364,AF 200 Tablet,14.45,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (200mg),
+365,Aquasurge  Eye Drop,152.21,FALSE,Ipca Laboratories Ltd,allopathy,packet of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+366,Atorva Asp 75 Capsule,44.35,FALSE,Zydus Cadila,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Aspirin (75mg)
+367,Azivent 500 Tablet,96.12,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),
+368,Azithral Eye Ointment,146,FALSE,Alembic Pharmaceuticals Ltd,allopathy,tube of 5 gm Eye Ointment,Azithromycin (1% w/w),
+369,Adtrol XT Tablet,302.7,FALSE,Wanbury Ltd,allopathy,strip of 15 tablets,Calcium Carbonate (1250mg) , Vitamin D3 (2000mg) 
+370,Aqualube Eye Drop,155.27,FALSE,Ajanta Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+371,Antisnake Venom Injection,992.42,FALSE,Serum Institute Of India Ltd,allopathy,vial of 10 ml Injection,Standard Cobra Venom (Naja naja) (0.6mg) , Standard common krait Venom (Bangarus caeruleus) (0.45mg) 
+372,Acrotac 25mg Capsule,1570,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 20 capsules,Acitretin (25mg),
+373,Azathioprine 50mg Tablet,104.27,FALSE,Care Formulation Labs Pvt Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),
+374,Amrolstar Nail Lacquer,438.69,FALSE,Oaknet Healthcare Pvt Ltd,allopathy,bottle of 2.5 ml Nail Lacquer,Amorolfine (5% w/v),
+375,Allercet-M Syrup,104,FALSE,Micro Labs Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml)
+376,Atchol 10 Tablet,24.71,TRUE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg),
+377,Alphagan Z Ophthalmic Solution,485.43,FALSE,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Brimonidine (0.1% w/v) , Stabilized Oxychloro (0.005% w/v)
+378,Acutret 10 Capsule,205.5,FALSE,Ipca Laboratories Ltd,allopathy,strip of 10 soft gelatin capsules,Isotretinoin (10mg),
+379,Acnedap Gel,398.23,FALSE,Cipla Ltd,allopathy,tube of 15 gm Gel,Dapsone (5% w/w),
+380,Amoxycillin 125mg Oral Suspension,7.5,FALSE,Nestor Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin (125mg),
+381,Advanced LCF Kid Expectorant,51.7,FALSE,Lupin Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+382,Amitryn 10 Tablet,84.3,FALSE,KC Laboratories,allopathy,strip of 30 tablets,Amitriptyline (10mg),
+383,Amtas-AT Tablet,141,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+384,Accentrix Solution for Injection,23960,TRUE,Novartis India Ltd,allopathy,vial of 1 Solution for Injection,Ranibizumab (10mg/ml),
+385,Arpizol 10 Tablet,141,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),
+386,Alkasol Oral Solution,208.82,FALSE,Stadmed Pvt Ltd,allopathy,bottle of 200 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),
+387,Aldactone 100 Tablet,211.05,FALSE,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (100mg),
+388,Aztogold 20 Capsule,85,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Aspirin (75mg) , Atorvastatin (20mg) 
+389,Addna Tablet,60,FALSE,Steadfast Medishield Pvt Ltd,allopathy,strip of 10 tablets,Sodium Chloride (1gm),
+390,Amtas-M 50 Tablet PR,204,FALSE,Intas Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg)
+391,Akilos-P Tablet,22.7,FALSE,Unison Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg)
+392,Avas CV 10 Capsule,111,FALSE,Micro Labs Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Clopidogrel (75mg)
+393,Actilyse 50mg Injection,49899,FALSE,Boehringer Ingelheim,allopathy,vial of 1 Injection,Alteplase (50mg),
+394,Acceclowoc-SP Tablet,121.1,FALSE,Tridoss Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+395,Amodep AT Tablet,38.5,TRUE,FDC Ltd,allopathy,strip of 14 tablets,Amlodipine (5mg) , Atenolol (50mg)
+396,Amlopres AT 25 Tablet,110.52,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (25mg)
+397,Acular LS Ophthalmic Solution,141.3,FALSE,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Ketorolac (0.4% w/v),
+398,Anxipan Capsule,140,FALSE,Medley Pharmaceuticals,allopathy,strip of 10 capsules,Amitriptyline (10mg) , Pantoprazole (40mg)
+399,Advent 91.4mg Drops Tangy Orange,105.8,FALSE,Cipla Ltd,allopathy,bottle of 10 ml Oral Drops,Amoxycillin  (80mg) ,  Clavulanic Acid (11.4mg)
+400,Azee XL 200mg Dry Syrup Peppermint,114.55,FALSE,Cipla Ltd,allopathy,bottle of 30 ml Dry Syrup,Azithromycin (200mg/5ml),
+401,Abevia 100 Capsule,95,FALSE,Mankind Pharma Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+402,Alex Oral Drops Orange,68,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Drops,Chlorpheniramine Maleate (1mg/ml) , Phenylephrine (2.5mg/ml)
+403,Amoxyclav DS Syrup,60.48,TRUE,Abbott,allopathy,bottle of 30 ml Syrup,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml)
+404,Alcoliv Tablet,195,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Metadoxine (500mg),
+405,Anosum Cream,98,FALSE,Samarth Life Sciences Pvt Ltd,allopathy,tube of 20 gm Rectal Cream,Lidocaine (4% w/w) , Metronidazole (1% w/w) 
+406,Amlovas-M 5/50 Tablet PR,133,FALSE,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg)
+407,Alkamax MB Alkamax MB6 Oral Solution,197.5,FALSE,Overseas Healthcare Pvt Ltd,allopathy,bottle of 200 ml Oral Solution,Potassium Citrate (1100mg/5ml) , Magnesium Citrate (375mg/5ml) 
+408,Amlosafe TM 40 Tablet,83,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+409,Apetamin Syrup,164,FALSE,Tablets India Limited,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml),
+410,Aceflam P 100mg/325mg Tablet,58.25,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+411,Ascovent -SR Tablet,236.5,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),
+412,Amaryl 3mg Tablet,438.43,FALSE,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (3mg),
+413,Acotrust  Tablet,198,TRUE,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Acotiamide (100mg),
+414,Acupat Ophthalmic Solution,218.24,FALSE,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Ketorolac (0.4% w/v) , Olopatadine (0.1% w/v)
+415,Arcolane 2% Scalp Solution,410,FALSE,Galderma India Pvt Ltd,allopathy,bottle of 60 ml Solution,Ketoconazole (2% w/v),
+416,Atropine 1% Eye Drop,19.88,FALSE,Pharmatak Opthalmics Pvt Ltd,allopathy,packet of 5 ml Eye Drop,Atropine (1% w/v),
+417,Amyclox-LB Capsule,149.3,FALSE,Ind Swift Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Cloxacillin (250mg) 
+418,Alamin Injection,149.3,FALSE,Albert David Ltd,allopathy,vial of 20 ml Injection,Methylcobalamin (NA),
+419,Aquim PF Eye Drop,590,FALSE,His Eyeness Ophthalmics Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.18% w/v),
+420,Arbitel-AM Tablet,156,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+421,Aprecap 125/80 Capsule,1096,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 3 capsules,Aprepitant (125mg) , Aprepitant (80mg)
+422,AB Phylline Syrup,178,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 100 ml Syrup,Acebrophylline (10mg/ml),
+423,Azeflo FT Nasal Spray,525.2,FALSE,Lupin Ltd,allopathy,packet of 70 MDI Nasal Spray,Fluticasone Propionate (27.5mcg) , Azelastine (140mcg)
+424,Atorva F Tablet,107,TRUE,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Fenofibrate (160mg)
+425,Amicline Plus Tablet,84.5,FALSE,Franco-Indian Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ornidazole (250mg) , Diloxanide (375mg)
+426,Acimol MR 100mg/325mg/250mg Tablet,65,FALSE,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+427,Abiways Tablet,251.25,FALSE,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+428,Asthakind Tablet,35.04,FALSE,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Guaifenesin (100mg) , Terbutaline (2.5mg) 
+429,Aprezo 10 Tablet,90,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Apremilast (10mg),
+430,Air 120 Tablet,49,FALSE,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+431,Amoxycillin  250mg Capsule,38,FALSE,Torque Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg),
+432,Acenac SP 100mg/325mg/15mg Tablet,101,FALSE,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+433,Aginal-AT Tablet,102.3,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg)
+434,Allrite DC Tablet ER,127.95,FALSE,Zydus Cadila,allopathy,strip of 10 tablet er,Levocetirizine (5mg) , Phenylephrine (20mg)
+435,Asthalin 2 Tablet,6.04,FALSE,Cipla Ltd,allopathy,strip of 30 tablets,Salbutamol (2mg),
+436,Arip MT 2 Tablet,90.6,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Aripiprazole (2mg),
+437,Alcet 5mg Tablet,91,FALSE,Prism Life Sciences Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+438,Aplazar Tablet,390,FALSE,Steadfast Medishield Pvt Ltd,allopathy,strip of 10 tablets,Alpha Ketoanalogue (200mg),
+439,Amicon 10 Tablet,25.5,FALSE,Icon Life Sciences,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+440,Amaryl M Forte 1mg Tablet PR,211.3,FALSE,Sanofi India  Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (1000mg)
+441,Amicline Tablet,13,FALSE,Franco-Indian Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Diloxanide (500mg),
+442,Acivir IV Injection,441.77,FALSE,Cipla Ltd,allopathy,vial of 1 Injection,Acyclovir (25mg/ml),
+443,ATM 200 Oral Suspension,57.46,FALSE,Indoco Remedies Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),
+444,Apidra Solostar 100IU/ml Injection,880.36,FALSE,Sanofi India  Ltd,allopathy,pre-filled pen of 3 ml Solution for Injection,Insulin Glulisine (100IU/ml),
+445,AB2 Kit,408.35,FALSE,Ajanta Pharma Ltd,allopathy,strip of 5 tablets,Mifepristone (200mg) , Misoprostol (200mcg)
+446,Amitryn 10 Tablet,25.5,FALSE,KC Laboratories,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+447,Atarax 25mg Injection,22.45,FALSE,Dr Reddy's Laboratories Ltd,allopathy,ampoule of 2 ml Injection,Hydroxyzine (25mg),
+448,Afoglip M  500 Tablet ER,255.8,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablet er,Metformin (500mg) , Teneligliptin (20mg)
+449,Amlozaar Tablet,166,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Amlodipine (5mg)
+450,Abel 40 Tablet,126.8,FALSE,Lupin Ltd,allopathy,strip of 10 tablets,Azilsartan medoxomil (40mg),
+451,Acolate Plus Tablet,52,FALSE,Gujarat Terce Laboratories Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (5mg) 
+452,Ampilox DS Tablet,213.7,FALSE,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Ampicillin (500mg) , Dicloxacillin (500mg)
+453,Asthalin Rotacaps,21.62,TRUE,Cipla Ltd,allopathy,packet of 30 capsules,Salbutamol (200mcg),
+454,Asthalin DX Syrup,87.84,FALSE,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+455,Asthalin Rotacaps,52.31,FALSE,Cipla Ltd,allopathy,bottle of 60 capsules,Salbutamol (200mcg),
+456,Atorlip 20 Tablet,247.8,FALSE,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (20mg),
+457,Altacef 500 Tablet,1040,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+458,Amlokind 2.5 Tablet,32.7,FALSE,Mankind Pharma Ltd,allopathy,strip of 30 tablets,Amlodipine (2.5mg),
+459,Ambistryn-S 0.75gm Injection,10.2,FALSE,Abbott,allopathy,vial of 1 Powder for Injection,Streptomycin (0.75gm),
+460,Ambulax-ET Tablet,60,FALSE,Unimarck Pharma India Ltd,allopathy,strip of 10 tablets,Etizolam (0.5mg) , Propranolol (20mg)
+461,Acceclowoc-P Tablet,60.09,FALSE,Wockhardt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+462,Alprax Forte 0.5 mg/50 mg Tablet,99.6,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg) , Sertraline (50mg)
+463,Alsita-M 100 Tablet ER,129,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablet er,Sitagliptin  (100mg) ,  Metformin (500mg)
+464,Axogurd NT Tablet SR,196.25,FALSE,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Pregabalin (75mg) , Nortriptyline (10mg)
+465,Aclind BP 2.5% Gel,215,FALSE,Mohrish Pharmaceuticals,allopathy,tube of 15 gm Gel,Benzoyl Peroxide (2.5% w/w) , Clindamycin (1% w/w)
+466,Anxiset 0.5 Tablet,54.5,FALSE,Obsurge Biotech Ltd,allopathy,strip of 10 tablets,Flupenthixol (0.5mg),
+467,Atonide-H Cream,195,FALSE,Curatio Healthcare India Pvt Ltd,allopathy,tube of 20 gm Cream,Hydrocortisone (1% w/w),
+468,Aldonil Tablet,150.95,FALSE,Zydus Cadila,allopathy,strip of 10 tablets,Epalrestat (50mg),
+469,Anticold  Tablet,21.16,FALSE,Surya Pharmaceutical Ltd,allopathy,strip of 10 tablets,Chlorpheniramine Maleate (NA) , Phenylephrine (NA)
+470,Alcros 100 Capsule,166,FALSE,Acme Generics LLP,allopathy,strip of 10 capsules,Itraconazole (100mg),
+471,Azibact 200 Readymix Oral Suspension,57.46,FALSE,Ipca Laboratories Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),
+472,Atchol 20 Tablet,50.89,FALSE,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg),
+473,Azibest 500mg Tablet,69,FALSE,Blue Cross Laboratories Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+474,Amoxy 500mg Capsule,55,FALSE,Blue Cross Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+475,A-Ret 0.05% Gel,129,FALSE,A. Menarini India Pvt Ltd,allopathy,tube of 20 gm Gel,Tretinoin (0.05% w/w),
+476,Adenosine 3mg Injection,208.02,FALSE,Samarth Life Sciences Pvt Ltd,allopathy,vial of 2 ml Injection,Adenosine (3mg),
+477,Ascoril Plus Tablet,32.5,TRUE,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Guaifenesin (100mg) , Terbutaline (2.5mg) 
+478,Azulix 2 MF Forte Tablet PR,242.6,FALSE,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (1000mg)
+479,Amlokind-H Tablet,35.04,FALSE,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Hydrochlorothiazide (12.5mg)
+480,Aziderm 10% Gel,231,FALSE,Micro Labs Ltd,allopathy,tube of 15 gm Gel,Azelaic Acid (10% w/w),
+481,Amlopin-M Tablet PR,118.5,FALSE,USV Ltd,allopathy,strip of 10 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg)
+482,Ascodex Junior Syrup,76.5,FALSE,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+483,Alevo 500 Tablet,100.24,FALSE,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+484,Avanair 200 Tablet,320,FALSE,Cipla Ltd,allopathy,strip of 4 tablets,Avanafil (200mg),
+485,Atorlip 40 Tablet,239.9,FALSE,Cipla Ltd,allopathy,strip of 10 tablets,Atorvastatin (40mg),
+486,Anafortan-MF 50mg/250mg Tablet,93.09,FALSE,Abbott,allopathy,strip of 10 tablets,Camylofin (50mg) , Mefenamic Acid (250mg)
+487,Amitriptyline Hcl 25mg Tablet,10,FALSE,Densa Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg),
+488,Aqsusten  25 Solution for Injection,114,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,vial of 1 ml Solution for Injection,Progesterone (Natural Micronized) (25mg),
+489,Amicet 5 mg/60 mg Tablet,49,FALSE,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Ambroxol (60mg)
+490,Amrox Junior Syrup,65,FALSE,Leeford Healthcare Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+491,ATM 250 Tablet,118.5,FALSE,Indoco Remedies Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),
+492,Anawin Heavy 5mg Injection,30.45,FALSE,Neon Laboratories Ltd,allopathy,vial of 4 ml Injection,Bupivacaine (5mg),
+493,Adaple-C Gel,272,FALSE,Wallace Pharmaceuticals Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+494,Aravon Injection,696,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,vial of 20 ml Injection,Edaravone (1.5mg),
+495,Akilos-SP Tablet,43.3,FALSE,Unison Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) 
+496,Amlozaar-H Tablet,143,FALSE,Micro Labs Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Amlodipine (5mg) 
+497,Alight Plus Gel,145,FALSE,Leeford Healthcare Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+498,Anaspas 25mg Injection,36.3,FALSE,Abbott,allopathy,vial of 2 ml Injection,Camylofin (25mg) , Diclofenac (25mg)
+499,Azibact LR 100 Readymix,85.7,FALSE,Ipca Laboratories Ltd,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (100mg/5ml),
+500,Aquazide 25 Tablet,20.9,FALSE,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (25mg),
