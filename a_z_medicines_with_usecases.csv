@@ -1,0 +1,501 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2,Usecase
+1,Augmentin 625 Duo Tablet,223.42,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),"bacterial infections, sinusitis, pneumonia, ear infections"
+2,Azithral 500 Tablet,132.36,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+3,Ascoril LS Syrup,118.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) ,"Cough, shortness of breath, wheezing, chest tightness"
+4,Allegra 120mg Tablet,218.81,False,Sanofi India  Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),,"Seasonal allergic rhinitis, chronic idiopathic urticaria"
+5,Avil 25 Tablet,10.96,False,Sanofi India  Ltd,allopathy,strip of 15 tablets,Pheniramine (25mg),,"Itching, runny nose, sneezing, watery eyes, skin rash, hives"
+6,Allegra-M Tablet,241.48,False,Sanofi India  Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg),"Allergic rhinitis, asthma"
+7,Amoxyclav 625 Tablet,223.27,False,Abbott,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),"Sinusitis, pneumonia, bronchitis, tonsillitis, skin infections, urinary tract infections, otitis media"
+8,Azee 500 Tablet,132.38,False,Cipla Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+9,Atarax 25mg Tablet,85.5,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 15 tablets,Hydroxyzine (25mg),,"Pruritus, urticaria, anxiety, tension"
+10,Ascoril D Plus Syrup Sugar Free,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) ,"Runny nose, nasal congestion, sneezing, allergic rhinitis, common cold, watery eyes"
+11,Aciloc 150 Tablet,40.94,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Ranitidine (150mg),,"Heartburn, Acid indigestion, Sour stomach, Peptic ulcer disease, Gastric ulcer, Duodenal ulcer, GERD, Zollinger-Ellison syndrome, Erosive esophagitis"
+12,Alex Syrup,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,"Nasal congestion, runny nose, sneezing, itchy nose, itchy throat"
+13,Anovate Cream,134.2,False,USV Ltd,allopathy,tube of 20 gm Cream,Phenylephrine (0.10% w/w) , Beclometasone (0.025% w/w) ,"Hemorrhoids, anal fissures, pruritus ani"
+14,Augmentin Duo Oral Suspension,67.2,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg),"bacterial infections, sinusitis, pneumonia, ear infections"
+15,Ambrodil-S Syrup,30.2,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Salbutamol (1mg/5ml),"Cough with mucus, bronchospasm"
+16,Arkamin Tablet,72.65,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Clonidine (100mcg),,Hypertension
+17,Avomine Tablet,55.98,False,Abbott,allopathy,strip of 10 tablets,Promethazine (25mg),,"Motion sickness, nausea, vomiting, vertigo, allergic reactions, insomnia"
+18,Asthakind-DX Syrup Sugar Free,70.4,False,Mankind Pharma Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,
+19,Allegra 180mg Tablet,251.2,False,Sanofi India  Ltd,allopathy,strip of 10 tablets,Fexofenadine (180mg),,"Sneezing, runny nose, itchy eyes, watery eyes, itchy nose, itchy throat"
+20,Albendazole 400mg Tablet,9.58,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),,unknown
+21,Asthalin Syrup,19.04,False,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Salbutamol (2mg/5ml),,"Wheezing, shortness of breath, chest tightness, asthma, chronic bronchitis, emphysema"
+22,Alprax 0.25 Tablet,29.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg),,"Anxiety, Panic disorder"
+23,Altraday Capsule SR,128.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsule sr,Aceclofenac (200mg) , Rabeprazole (20mg),"Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, pain, inflammation, heartburn, acid reflux, GERD, peptic ulcers"
+24,Ativan 2mg Tablet,91.87,False,Pfizer Ltd,allopathy,strip of 30 tablets,Lorazepam (2mg),,"Anxiety, insomnia, seizures, alcohol withdrawal"
+25,Ascoril LS Junior Syrup,96.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Levosalbutamol (0.5mg/5ml) ,"Cough with mucus, wheezing, shortness of breath"
+26,Asthalin 100mcg Inhaler,157.85,False,Cipla Ltd,allopathy,packet of 200 MDI Inhaler,Salbutamol (100mcg),,"Wheezing, shortness of breath"
+27,Almox 500 Capsule,80.26,False,Alkem Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),,"Pneumonia, bronchitis, tonsillitis, sinusitis, otitis media, skin infections, urinary tract infections"
+28,Atarax 10mg Tablet,47.91,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 15 tablets,Hydroxyzine (10mg),,"Pruritus, urticaria, anxiety, tension"
+29,Aciloc RD 20 Tablet,77.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Domperidone (10mg) , Omeprazole (20mg),"Acid reflux, heartburn, peptic ulcers, GERD, nausea, vomiting"
+30,Aldactone Tablet,35.35,False,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (25mg),,"Heart failure, edema, ascites, hypertension, hyperaldosteronism, hypokalemia, hirsutism, acne, female pattern hair loss"
+31,Allegra Suspension Raspberry & Vanilla,188.78,False,Sanofi India  Ltd,allopathy,bottle of 100 ml Oral Suspension,Fexofenadine (30mg/5ml),,"Seasonal allergic rhinitis, chronic idiopathic urticaria"
+32,Atarax Syrup,110.25,True,Dr Reddy's Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Hydroxyzine (10mg),,"Pruritus, urticaria, anxiety, tension"
+33,Amlokind-AT Tablet,44.7,False,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+34,Axcer  90mg Tablet,420.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 14 tablets,Ticagrelor (90mg),,"Acute coronary syndrome, myocardial infarction, stroke, cardiovascular death, stent thrombosis"
+35,Ativan 1mg Tablet,75.67,False,Pfizer Ltd,allopathy,strip of 30 tablets,Lorazepam (1mg),,
+36,Alkasol Oral Solution,122.05,True,Stadmed Pvt Ltd,allopathy,bottle of 100 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),,"Kidney stones, urinary tract infections, gout"
+37,Aldigesic P 100mg/325mg Tablet,110.0,False,Alkem Laboratories Ltd,allopathy,strip of 15 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, muscle pain, toothache, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, period pain, fever"
+38,Alfoo 10mg Tablet PR,687.75,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 30 Tablet pr,Alfuzosin (10mg),,Benign prostatic hyperplasia
+39,Alprax 0.5mg Tablet,66.9,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Alprazolam (0.5mg),,"Anxiety, Panic disorder"
+40,Arachitol 6L Injection,407.76,False,Abbott,allopathy,packet of 6 injections,Vitamin D3 (600000IU),,"Vitamin D deficiency, rickets, osteomalacia"
+41,Anafortan 25 mg/300 mg Tablet,124.56,False,Abbott,allopathy,strip of 15 tablets,Camylofin (25mg) , Paracetamol (300mg),"abdominal pain, intestinal cramps, dysmenorrhea, headache, fever"
+42,Alex Junior Syrup,95.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Dextromethorphan Hydrobromide (5mg/5ml),"Cough, runny nose, sneezing, itchy throat"
+43,Azithral 200 Liquid,57.25,False,Alembic Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),,"Bacterial infections, pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, ear infections, typhoid fever, chlamydia, gonorrhea"
+44,AB Phylline Capsule,162.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),,"COPD, asthma, bronchitis"
+45,Althrocin 500 Tablet,110.3,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Erythromycin (500mg),,unknown
+46,Augmentin DDS Suspension,173.0,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml),"bacterial infections, sinusitis, pneumonia, ear infections"
+47,Azicip 500 Tablet,79.43,False,Cipla Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,unknown
+48,Aldigesic-SP Tablet,120.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, toothache, back pain, muscle pain, joint pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+49,Amoxycillin 500mg Capsule,31.9,True,Jagsonpal Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),,"bacterial infections, bronchitis, pneumonia, tonsillitis"
+50,Asthakind Expectorant Sugar Free,64.22,False,Mankind Pharma Ltd,allopathy,bottle of 60 ml Expectorant,Guaifenesin (50mg) , Terbutaline (1.25mg) ,"Cough, chest congestion, wheezing, shortness of breath"
+51,Acemiz Plus Tablet,99.5,False,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, back pain, muscle pain, joint pain, fever, period pain"
+52,Aceclo Plus Tablet,90.85,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+53,Anobliss Cream,136.68,False,Samarth Life Sciences Pvt Ltd,allopathy,tube of 30 gm Rectal Cream,Lidocaine (1.5% w/w) , Nifedipine (0.3% w/w),"Anal fissures, hemorrhoids pain"
+54,Alex Cough Lozenges Lemon Ginger,108.0,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 lozenges,Dextromethorphan Hydrobromide (5mg),,Cough
+55,Asthalin Respules,7.07,False,Cipla Ltd,allopathy,packet of 2.5 ml Respules,Salbutamol (2.5mg),,"Wheezing, shortness of breath, chest tightness, asthma, chronic obstructive pulmonary disease"
+56,Avil Injection,21.17,False,Sanofi India  Ltd,allopathy,vial of 10 ml Injection,Pheniramine (22.75mg),,"Allergic rhinitis, urticaria, angioedema, drug reactions, pruritus"
+57,Azee 200mg Dry Syrup,52.31,False,Cipla Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),,"Bacterial infections, pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, ear infections, typhoid fever"
+58,Atorva Tablet,102.31,False,Zydus Cadila,allopathy,strip of 15 tablets,Atorvastatin (10mg),,"High cholesterol, hyperlipidemia, cardiovascular disease prevention"
+59,Asthakind-LS Expectorant Cola Sugar Free,93.5,False,Mankind Pharma Ltd,allopathy,bottle of 100 ml Expectorant,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) ,"Cough with mucus, bronchospasm"
+60,Ascoril LS Drops,72.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Drops,Ambroxol (7.5mg/ml) , Levosalbutamol (0.25mg/ml) ,"Cough, wheezing, shortness of breath"
+61,Azmarda 50mg Tablet,1092.03,False,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Sacubitril (24mg) , Valsartan (26mg),"Heart failure, reduced ejection fraction"
+62,Amixide-H Tablet,51.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg),"Depression, anxiety"
+63,AB-Flo-N Tablet,207.25,False,Lupin Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),"Cough, mucus, bronchitis, asthma, COPD"
+64,AF Kit Tablet,110.0,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 4 tablets,Azithromycin (1000mg) , Ornidazole (750mg) ,"Bacterial infections, parasitic infections"
+65,Amlokind 5 Tablet,22.15,False,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+66,Amlong Tablet,48.55,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),,"Hypertension, angina, coronary artery disease"
+67,Akt 4 Kit,24.7,False,Lupin Ltd,allopathy,packet of 1 Kit,Isoniazid (300mg) , Rifampicin (450mg) ,
+68,Ascoril D Junior Cough Syrup,98.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,"cough, nasal congestion, runny nose, sneezing"
+69,Amitone 10mg Tablet,19.15,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),,"Depression, Neuropathic pain, Migraine prevention, Nocturnal enuresis"
+70,Aulin 100mg Tablet,50.56,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg),,"fever, pain, inflammation"
+71,Amikacin Sulphate 500mg Injection,11.87,True,Sun Pharmaceutical Industries Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),,Bacterial infections
+72,Ambrodil-LX Syrup,90.85,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) ,"Cough, wheezing, shortness of breath"
+73,Aquasol A Capsule,29.6,False,USV Ltd,allopathy,bottle of 30 capsules,Vitamin A (25000IU),,"Vitamin A deficiency, night blindness, dry eyes, keratomalacia, measles"
+74,AB Phylline SR 200 Tablet,252.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),,"Chronic bronchitis, asthma, COPD"
+75,Azoran Tablet,106.65,True,RPG Life Sciences Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),,unknown
+76,Amaryl 1mg Tablet,133.81,False,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (1mg),,Type 2 diabetes mellitus
+77,Aztor 10 Tablet,102.25,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg),,"High cholesterol, hyperlipidemia, cardiovascular disease prevention"
+78,Atorva 40 Tablet,239.89,False,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (40mg),,"High cholesterol, hyperlipidemia, cardiovascular risk"
+79,Azax 500 Tablet,79.3,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,unknown
+80,Alex Syrup Sugar Free,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,"Nasal congestion, runny nose, sneezing, itchy nose, watery eyes"
+81,Anxit 0.5 Tablet,47.0,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Alprazolam (0.5mg),,"Anxiety, panic disorder"
+82,Anxit 0.25mg Tablet,20.5,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg),,"Anxiety, Panic disorder"
+83,Acitrom 2 Tablet,414.65,False,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (2mg),,"Venous thromboembolism, pulmonary embolism, atrial fibrillation, prosthetic heart valves, stroke prevention"
+84,Angispan - TR 2.5mg Capsule,198.0,False,USV Ltd,allopathy,bottle of 25 capsule tr,Nitroglycerin (2.5mg),,Angina pectoris
+85,Azeflo Nasal Spray,420.1,False,Lupin Ltd,allopathy,packet of 7 ml Nasal Spray,Fluticasone Propionate (50mcg) , Azelastine (140mcg),Allergic rhinitis symptoms
+86,Acemiz -MR Tablet,99.5,False,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, muscle pain, toothache, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+87,Akurit 4 Tablet,82.6,False,Lupin Ltd,allopathy,strip of 10 tablets,Isoniazid (75mg) , Rifampicin (150mg) ,Tuberculosis
+88,Aerocort Inhaler,273.77,False,Cipla Ltd,allopathy,packet of 200 MDI Inhaler,Levosalbutamol (50mcg) , Beclometasone (50mcg),"Wheezing, shortness of breath, asthma, chronic obstructive pulmonary disease"
+89,Adaferin Gel,284.0,False,Galderma India Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w),,
+90,Acivir 400 DT Tablet,76.55,False,Cipla Ltd,allopathy,strip of 5 tablet dt,Acyclovir (400mg),,"Herpes simplex virus infections, Varicella-zoster virus infections"
+91,Aptimust Syrup,129.9,False,Mankind Pharma Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml) , Tricholine Citrate (275mg/5ml) ,"Appetite stimulation, allergic rhinitis, perennial rhinitis, vasomotor rhinitis, allergic conjunctivitis, cold urticaria, dermatographism."
+92,Augmentin 1000 Duo Tablet,601.45,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (875mg) ,  Clavulanic Acid (125mg),"bacterial infections, sinusitis, pneumonia, ear infections"
+93,Ambrodil Syrup,69.75,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml),,"Productive cough, chest congestion"
+94,Acogut Tablet,239.4,False,Lupin Ltd,allopathy,strip of 15 tablets,Acotiamide (100mg),,"Functional dyspepsia, postprandial fullness, early satiety, epigastric pain, heartburn, nausea, vomiting"
+95,Atarax Drops,69.75,False,Dr Reddy's Laboratories Ltd,allopathy,bottle of 15 ml Syrup,Hydroxyzine (6mg),,"Pruritus, urticaria, anxiety, tension"
+96,Amlip 5 Tablet,32.36,False,Cipla Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+97,AntiD 300mcg/ml Injection,3039.42,False,Bharat Serums & Vaccines Ltd,allopathy,vial of 1 Injection,Anti Rh D Immunoglobulin (300mcg/ml),,"RhD incompatibility, hemolytic disease, idiopathic thrombocytopenic purpura"
+98,Alerid Syrup,21.84,False,Cipla Ltd,allopathy,bottle of 30 ml Syrup,Cetirizine (5mg/5ml),,"Perennial allergic rhinitis, Seasonal allergic rhinitis, Chronic urticaria"
+99,Aldactone 50 Tablet,70.6,False,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (50mg),,"Heart failure, edema, ascites, hypertension, hyperaldosteronism, hypokalemia, hirsutism"
+100,Ampoxin 500 Capsule,88.9,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 capsules,Ampicillin (250mg) , Cloxacillin (250mg),unknown
+101,Azee 250 Tablet,118.49,True,Cipla Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),,unknown
+102,Alerid Tablet,20.48,False,Cipla Ltd,allopathy,strip of 10 tablets,Cetirizine (10mg),,"Hay fever, allergic rhinitis, chronic urticaria"
+103,Augmentin 375 Tablet,229.0,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg),"bacterial infections, sinusitis, pneumonia, ear infections"
+104,Acenac-P  Tablet,61.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+105,Acivir Cream,72.53,False,Cipla Ltd,allopathy,tube of 5 gm Cream,Acyclovir (5% w/w),,Herpes simplex virus infections of the skin
+106,AB-Flo Capsule,156.6,False,Lupin Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),,"Chronic bronchitis, asthma, COPD"
+107,AB Phylline N Tablet,209.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),"Cough, COPD, asthma, bronchitis, emphysema"
+108,Amifru 40 Tablet,11.25,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Furosemide (40mg) , Amiloride (5mg),"Edema, Hypertension, Heart failure, Liver cirrhosis, Kidney disorder"
+109,Avamys Nasal Spray,404.5,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,packet of 10 gm Nasal Spray,Fluticasone Furoate (0.05% w/w),,Allergic rhinitis symptoms
+110,Alkasol Oral Solution Sugar Free,122.05,False,Stadmed Pvt Ltd,allopathy,bottle of 100 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),,"Gout, kidney stones, urinary tract infections, metabolic acidosis, urine alkalinization"
+111,Aciloc 300 Tablet,50.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 20 tablets,Ranitidine (300mg),,"Heartburn, acid reflux, peptic ulcers, Zollinger-Ellison syndrome, GERD, dyspepsia"
+112,Aziderm 20% Cream,285.0,False,Micro Labs Ltd,allopathy,tube of 15 gm Cream,Azelaic Acid (20% w/w),,"Acne vulgaris, rosacea"
+113,Ace Proxyvon Tablet,72.5,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, muscle pain, joint pain, fever"
+114,Avil Injection,5.66,False,Sanofi India  Ltd,allopathy,vial of 2 ml Injection,Pheniramine (22.75mg),,"Allergic rhinitis, allergic skin conditions, urticaria, angioedema, drug reactions, insect bites"
+115,Ano Metrogyl Cream,121.41,False,Lekar Pharma Ltd,allopathy,tube of 20 gm Rectal Cream,Lidocaine (4% w/w) , Metronidazole (1% w/w) ,"Vulvodynia, vulvar vestibulitis"
+116,Admenta 5 Tablet,119.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Memantine (5mg),,
+117,Aceclo-MR Tablet,88.65,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"headache, muscle pain, joint pain, back pain, toothache, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis"
+118,Alerid-D Tablet,57.97,False,Cipla Ltd,allopathy,strip of 10 tablets,Cetirizine (5mg) , Phenylephrine (10mg),"Runny nose, sneezing, itchy nose, itchy throat, watery eyes, nasal congestion, seasonal allergies, perennial allergies"
+119,Acemiz-S Tablet,115.44,False,Lupin Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+120,Allercet-DC Tablet,80.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Cetirizine (10mg) , Phenylephrine (10mg),"Runny nose, sneezing, itchy nose, itchy throat, watery eyes, nasal congestion, sinus congestion"
+121,Aztolet  10 Tablet,170.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Clopidogrel (75mg),"Myocardial infarction, stroke, angina, peripheral artery disease"
+122,Amaryl 2mg Tablet,212.65,False,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (2mg),,Type 2 diabetes mellitus
+123,Augmentin 1.2gm Injection,156.14,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,vial of 1 Powder for Injection,Amoxycillin  (1000mg) ,  Clavulanic Acid (200mg),"bacterial infections, sinusitis, pneumonia, ear infections"
+124,Ambrodil-Plus RF Syrup,89.75,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Pseudoephedrine (30mg/5ml) ,"Cough with mucus, nasal congestion"
+125,Amlopres-AT Tablet,148.59,False,Cipla Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+126,Ajaduo 25mg/5mg Tablet,820.0,False,Lupin Ltd,allopathy,strip of 10 tablets,Empagliflozin (25mg) , Linagliptin (5mg),Type 2 diabetes mellitus
+127,Avanair 100 Tablet,220.0,False,Cipla Ltd,allopathy,strip of 4 tablets,Avanafil (100mg),,Erectile dysfunction
+128,Acton-OR Tablet SR,50.55,False,Apex Laboratories Pvt Ltd,allopathy,strip of 10 tablet ir,Paracetamol (300mg) , Paracetamol (700mg),"Fever, headache, muscle ache, toothache, backache, osteoarthritis pain, menstrual cramps"
+129,Aquazide 12.5 Tablet,12.15,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg),,"Edema, hypertension"
+130,Alaspan AM Tablet,98.8,False,Bayer Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ambroxol (60mg) , Loratadine (5mg),"Cough with mucus, allergic rhinitis"
+131,Althrocin 250 Tablet,56.6,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Erythromycin (250mg),,unknown
+132,Azikem 500mg Tablet,71.7,False,Alkem Laboratories Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,unknown
+133,Aldosmin 500mg Tablet,137.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Diosmin (450mg) , Hesperidin (50mg),"Chronic venous insufficiency, hemorrhoids"
+134,Amlovas 5 Tablet,48.55,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+135,Acitrom 1 Tablet,264.74,False,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (1mg),,"Blood clots, thromboembolism, deep vein thrombosis, pulmonary embolism, atrial fibrillation, prosthetic heart valves"
+136,AF 150 Tablet DT,11.45,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet DT,Fluconazole (150mg),,unknown
+137,Ascoril SF Expectorant,135.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Expectorant,Guaifenesin (50mg) , Terbutaline (1.25mg) ,"Cough, chest congestion, wheezing, shortness of breath"
+138,Amaryl M  1mg Tablet PR,242.84,False,Sanofi India  Ltd,allopathy,strip of 20 Tablet pr,Glimepiride (1mg) , Metformin (500mg),Type 2 diabetes mellitus
+139,Azithral XL 200 Liquid,114.56,False,Alembic Pharmaceuticals Ltd,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (200mg/5ml),,"Bacterial infections, bronchitis, pneumonia, tonsillitis, pharyngitis, skin infections, ear infections, sinusitis"
+140,AF 400 Tablet,25.6,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (400mg),,unknown
+141,Amantrel Tablet,222.27,False,Cipla Ltd,allopathy,strip of 15 tablets,Amantadine (100mg),,"Parkinson's disease, drug-induced extrapyramidal reactions, influenza A"
+142,Atorva 20 Tablet,247.78,False,Zydus Cadila,allopathy,strip of 15 tablets,Atorvastatin (20mg),,"High cholesterol, hyperlipidemia, cardiovascular disease risk reduction, stroke risk reduction"
+143,Acenac-MR Tablet,218.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) ,"Muscle spasm, muscle pain, lower back pain, joint pain"
+144,Ambrolite-S Expectorant,106.0,False,Tablets India Limited,allopathy,bottle of 100 ml Expectorant,Ambroxol (30mg) , Guaifenesin (50mg) ,"Productive cough, chest congestion"
+145,Asthalin 4 Tablet,9.06,False,Cipla Ltd,allopathy,strip of 30 tablets,Salbutamol (4mg),,"Wheezing, shortness of breath, chest tightness, coughing"
+146,Abiways Tablet,167.5,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),"COPD, bronchitis, asthma, emphysema, mucus hypersecretion"
+147,Amaryl M  2mg Tablet PR,363.34,False,Sanofi India  Ltd,allopathy,strip of 20 Tablet pr,Glimepiride (2mg) , Metformin (500mg),"Type 2 diabetes, hyperglycemia"
+148,Azoran Tablet,236.25,False,RPG Life Sciences Ltd,allopathy,strip of 20 tablets,Azathioprine (50mg),,unknown
+149,Ampilox Capsule,151.35,False,Biochem Pharmaceutical Industries,allopathy,strip of 15 capsules,Ampicillin (250mg) , Dicloxacillin (250mg),unknown
+150,Adrenaline Tartrate Injection,14.52,False,Harson Laboratories,allopathy,vial of 1 ml Injection,Adrenaline (NA),,
+151,Acogut 300 ER Tablet,384.8,False,Lupin Ltd,allopathy,strip of 10 tablet er,Acotiamide (300mg),,Functional dyspepsia
+152,Acuvin Tablet,227.66,False,Abbott,allopathy,strip of 15 tablets,Paracetamol/Acetaminophen  (325mg) ,  Tramadol (37.5mg),Moderate to severe pain
+153,AB-Flo SR Tablet,238.5,False,Lupin Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),,"Cough, chronic obstructive pulmonary disease, asthma, bronchitis"
+154,Air-M Tablet,69.0,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg),"Seasonal allergies, perennial allergies, allergic rhinitis, asthma."
+155,Atorlip-F Tablet,366.75,False,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg) , Fenofibrate (145mg),"Hyperlipidemia, mixed dyslipidemia, hypertriglyceridemia"
+156,Advent Forte 457mg Syrup Tangy Orange,193.74,False,Cipla Ltd,allopathy,bottle of 30 ml Syrup,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+157,Amlodac 5 Tablet,97.1,False,Zydus Cadila,allopathy,strip of 30 tablets,Amlodipine (5mg),,"Hypertension, Angina, Vasospastic angina"
+158,Aztor 40 Tablet,359.8,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (40mg),,"High cholesterol, hyperlipidemia, cardiovascular disease prevention"
+159,Ascoril Plus Expectorant,182.0,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 200 ml Expectorant,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) ,"Productive cough, chest congestion"
+160,Alupent 10mg Tablet,52.5,True,Zydus Cadila,allopathy,strip of 10 tablets,Orciprenaline (10mg),,"Wheezing, shortness of breath"
+161,Amlip AT Tablet,72.6,False,Cipla Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+162,Asthakind-P Drops,62.0,False,Mankind Pharma Ltd,allopathy,packet of 15 ml Oral Drops,Ambroxol (7.5mg) , Guaifenesin (12.5mg) ,Cough with mucus
+163,Allegra Nasal Spray,361.0,False,Sanofi India  Ltd,allopathy,bottle of 120 MDI Nasal Spray,Fluticasone Furoate (27.5mcg),,Allergic rhinitis symptoms
+164,Addnok 0.2mg Tablet,76.6,False,Rusan Pharma Ltd,allopathy,strip of 20 tablets,Buprenorphine (0.2mg),,"Opioid dependence, opioid withdrawal"
+165,Aldosmin 1000mg Tablet,238.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Diosmin (900mg) , Hesperidin (100mg),"Chronic venous insufficiency, hemorrhoids"
+166,Andre I-Kul Eye Drop,73.5,False,Intas Pharmaceuticals Ltd,allopathy,packet of 10 ml Eye Drop,Camphor (0.01% w/v) , Menthol (0.005% w/v) ,
+167,Antiflu 75mg Capsule,726.72,False,Cipla Ltd,allopathy,strip of 10 capsules,Oseltamivir Phosphate (75mg),,"Influenza A, Influenza B"
+168,Alerfix Total Tablet SR,262.02,False,Eris Lifesciences Ltd,allopathy,strip of 15 tablet sr,Ambroxol (75mg) , Levocetirizine (5mg) ,"Cough with mucus, runny nose, sneezing, itchy nose, itchy throat"
+169,Alex-L Cough Syrup Mango,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Oral Suspension,Levocloperastine (20mg/5ml),,"Dry cough, non-productive cough"
+170,Atropine Sulphate Injection,11.25,True,Samarth Life Sciences Pvt Ltd,allopathy,vial of 10 ml Injection,Atropine (0.6mg),,unknown
+171,Aquaviron Injection 1ml,194.49,False,Abbott,allopathy,vial of 1 Injection,Testosterone (25mg),,Hypogonadism
+172,Aciclovir 400 Tablet,67.42,False,Care Formulation Labs Pvt Ltd,allopathy,strip of 5 tablets,Acyclovir (400mg),,"Herpes simplex virus infections, varicella zoster virus infections"
+173,Alkof DX Syrup,110.0,False,Alkem Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Chlorpheniramine Maleate (4mg) , Dextromethorphan Hydrobromide (10mg),"Cough, allergy symptoms, itching, sneezing, runny nose"
+174,ATM 500 Tablet,132.38,False,Indoco Remedies Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+175,Assurans Tablet,200.0,True,Cipla Ltd,allopathy,strip of 10 tablets,Sildenafil (20mg),,"Erectile dysfunction, pulmonary hypertension"
+176,Ambrolite D Syrup,118.0,False,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,"Nasal congestion, runny nose, sneezing, itchy throat"
+177,Actrapid HM 100IU/ml Penfill,350.9,False,Novo Nordisk India Pvt Ltd,allopathy,penfill of 3 ml Solution for Injection,Human insulin (100IU),,Diabetes mellitus
+178,Aten 50 Tablet,31.04,False,Zydus Cadila,allopathy,strip of 14 tablets,Atenolol (50mg),,"Hypertension, Angina pectoris"
+179,Azmarda 100mg Tablet,1169.05,False,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Sacubitril (49mg) , Valsartan (51mg),"Heart failure, reduced ejection fraction"
+180,Asthalin AX Syrup,104.67,False,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) ,"Cough with mucus, bronchospasm"
+181,Alzolam 0.5mg Tablet,36.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg),,"Anxiety, Panic disorder"
+182,A Kare Combipack,595.0,False,DKT India Ltd,allopathy,packet of 1 Kit,Mifepristone (200mg) , Misoprostol (200mcg),Medical abortion
+183,Ambulax Tablet,101.25,False,Unimarck Pharma India Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg) , Propranolol (20mg),"Anxiety, Panic disorder, Tremors, Tachycardia, High blood pressure, Angina"
+184,Amlovas-AT Tablet,106.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+185,Asthakind-DX Junior Syrup Cherry,60.5,False,Mankind Pharma Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (2.5mg/5ml) , Chlorpheniramine Maleate (1mg/5ml) ,"Nasal congestion, runny nose, sneezing, itchy nose, watery eyes"
+186,Advent 228.5mg Dry Syrup,67.2,False,Cipla Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg/5ml) ,  Clavulanic Acid (28.5mg/5ml),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+187,Acivir 800 DT Tablet,246.23,False,Cipla Ltd,allopathy,strip of 5 tablet dt,Acyclovir (800mg),,"Herpes simplex virus infections, Varicella-zoster virus infections"
+188,Alfusin Tablet PR,298.67,False,Cipla Ltd,allopathy,strip of 15 Tablet pr,Alfuzosin (10mg),,Benign prostatic hyperplasia
+189,Aziwok 500 Tablet,132.36,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+190,Alkacitral Liquid,111.35,True,Alembic Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (1.25gm/5ml),,"Uric acid kidney stones, cystine kidney stones, renal tubular acidosis, gout"
+191,Almox-CV 625 Tablet,116.51,False,Cachet Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+192,Azithral 100 Liquid,46.3,False,Alembic Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (20mg/ml),,"Bacterial infections, pneumonia, bronchitis, sinusitis, skin infections, ear infections, throat infections, tonsillitis"
+193,Azee 100mg Dry Syrup Peppermint,45.88,False,Cipla Ltd,allopathy,bottle of 15 ml Suspension,Azithromycin (100mg/5ml),,"Bacterial infections, pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, ear infections"
+194,Ace-Proxyvon CR Tablet,143.25,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablet cr,Aceclofenac (200mg) , Rabeprazole (20mg),"Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, abdominal pain, peptic ulcer, gastroesophageal reflux disease"
+195,Ascoril C  Syrup,174.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 120 ml Syrup,Chlorpheniramine Maleate (4mg) , Codeine (10mg),"Cough, common cold, allergy symptoms"
+196,Aprezo 30mg Tablet,295.5,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Apremilast (30mg),,"Psoriatic arthritis, plaque psoriasis, oral ulcers associated with Behçet’s disease"
+197,Apidra 100IU Cartridge,761.0,False,Sanofi India  Ltd,allopathy,cartridge of 3 ml Solution for Injection,Insulin Glulisine (100IU),,"Type 1 diabetes, Type 2 diabetes"
+198,Amlosafe 3D Tablet,67.2,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 7 tablets,Telmisartan (40mg) , Amlodipine (5mg) ,"Hypertension, high blood pressure"
+199,Andial 2mg Tablet,24.5,False,Veritaz Healthcare Ltd,allopathy,strip of 10 tablets,Loperamide (2mg),,
+200,Acenext P 100mg/325mg Tablet,58.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+201,Acnesol A Nano Gel,206.0,False,Systopic Laboratories Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w),Acne vulgaris
+202,Ascoril Flu Syrup,87.5,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Phenylephrine (5mg/5ml),"Runny nose, sneezing, nasal congestion"
+203,Asomex 2.5 Tablet,100.2,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 15 tablets,S-Amlodipine (2.5mg),,"Hypertension, Angina"
+204,Angiplat 2.5 Capsule TR,162.5,False,Micro Labs Ltd,allopathy,bottle of 25 capsule tr,Nitroglycerin (2.5mg),,Angina pectoris
+205,Alkof Cofgel  Tablet,28.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Guaifenesin (NA) , Bromhexine (NA) ,"Productive cough, chest congestion"
+206,Azithral 250mg DT Tablet,131.2,True,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet dt,Azithromycin (250mg),,unknown
+207,Alzolam 0.25mg Tablet,17.45,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg),,"Anxiety, Panic disorder"
+208,Advent 625 Tablet,223.44,False,Cipla Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+209,Alsita M 50mg/500mg Tablet,89.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Sitagliptin  (50mg) ,  Metformin (500mg),Type 2 diabetes mellitus
+210,Axogurd-SR Tablet,175.25,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Methylcobalamin (1500mcg) , Pregabalin (75mg),"Diabetic neuropathy, postherpetic neuralgia, fibromyalgia, peripheral neuropathy"
+211,Azoflox UTI Tablet,135.0,False,Mac Millon Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Flavoxate (200mg),"Urinary tract infections, dysuria, urgency, frequency, nocturia, suprapubic pain"
+212,Azulix 2 MF Tablet PR,225.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (500mg),Type 2 diabetes mellitus
+213,Amaryl MV 2mg Tablet SR,213.42,False,Sanofi India  Ltd,allopathy,strip of 15 tablet sr,Glimepiride (2mg) , Metformin (500mg) ,Type 2 diabetes mellitus
+214,Azulix 1 MF Tablet PR,155.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (500mg),Type 2 diabetes mellitus
+215,Aten 25 Tablet,27.9,False,Zydus Cadila,allopathy,strip of 14 tablets,Atenolol (25mg),,"Hypertension, Angina pectoris"
+216,Azibact 500 Tablet,132.37,False,Ipca Laboratories Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,"Pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, soft tissue infections, urethritis, cervicitis, chancroid"
+217,Amlopres TL Tablet,121.97,False,Cipla Ltd,allopathy,strip of 15 tablets,Telmisartan (40mg) , Amlodipine (5mg),Hypertension
+218,Ambrolite Syrup,82.0,False,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml),,"Productive cough, chest congestion"
+219,Actapro Tablet,120.0,True,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Acotiamide (100mg),,"Functional dyspepsia, postprandial fullness, early satiation, epigastric pain, bloating, upper abdominal discomfort"
+220,Aztor 20 Tablet,247.75,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 15 tablets,Atorvastatin (20mg),,"High cholesterol, hyperlipidemia, cardiovascular disease prevention, stroke prevention"
+221,Alkof Syrup,85.0,False,Alkem Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Guaifenesin (50mg) , Terbutaline (1.25mg) ,"Cough with mucus, Bronchospasm, Wheezing"
+222,Atorfit CV 10 Capsule,297.0,False,Ajanta Pharma Ltd,allopathy,strip of 15 capsules,Atorvastatin (10mg) , Clopidogrel (75mg),"Myocardial infarction, stroke, acute coronary syndrome, peripheral arterial disease"
+223,Acnesol Gel,87.0,False,Systopic Laboratories Pvt Ltd,allopathy,tube of 20 gm Gel,Clindamycin (1% w/w),,Acne vulgaris
+224,Amtas 5 Tablet,97.1,False,Intas Pharmaceuticals Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+225,Alrgee 120mg Tablet,33.25,False,Morepen Laboratories Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),,"Hay fever symptoms, allergic rhinitis symptoms, chronic idiopathic urticaria symptoms"
+226,Avil 50mg Tablet,12.11,False,Sanofi India  Ltd,allopathy,strip of 15 tablets,Pheniramine (50mg),,"Allergic rhinitis, allergic skin conditions, common cold, insect bites, drug allergies"
+227,Arip MT 5 Tablet,133.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Aripiprazole (5mg),,"Schizophrenia, Bipolar I disorder, Mania, Mixed episodes, Irritability, Tourette's disorder, Depression"
+228,Alivher Tablet,215.0,False,Akumentis Healthcare Ltd,allopathy,strip of 10 tablets,Sildenafil (25mg),,Erectile dysfunction
+229,Apdrops LP  Eye Drop BAK Free,209.0,False,Ajanta Pharma Ltd,allopathy,bottle of 5 ml Eye Drop,Loteprednol etabonate (0.5% w/v) , Moxifloxacin (0.5% w/v),
+230,Amrox-LS Syrup,75.0,False,Leeford Healthcare Ltd,allopathy,bottle of 60 ml Expectorant,Ambroxol (30mg) , Levosalbutamol (1mg) ,"Cough with mucus, bronchospasm"
+231,Altonil 3mg Tablet,82.04,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 15 tablets,Melatonin (3mg),,"Insomnia, jet lag, sleep disorders"
+232,Allercet Cold Tablet,77.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (10mg) ,"Runny nose, sneezing, itchy nose, itchy throat, watery eyes, nasal congestion"
+233,Atorlip 10 Tablet,102.31,False,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (10mg),,"High cholesterol, hyperlipidemia, cardiovascular disease prevention"
+234,Admenta 10 Tablet,208.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Memantine (10mg),,Alzheimer's disease
+235,Amox 500mg Capsule,60.48,False,Synchem Lab,allopathy,strip of 10 capsules,Amoxycillin (500mg),,"Pneumonia, bronchitis, tonsillitis, skin infections, urinary tract infections, ear infections, sinus infections, Helicobacter pylori infection"
+236,Azee 250 Tablet,78.75,False,Cipla Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),,unknown
+237,Asthalin Respirator Solution,13.1,False,Cipla Ltd,allopathy,bottle of 15 ml Solution for inhalation,Salbutamol (5mg),,"Wheezing, shortness of breath"
+238,Add Tears Lubricant Eye Drop,135.25,False,Cipla Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),,"Dry eye symptoms, eye irritation"
+239,Almox 250 Capsule,24.72,False,Alkem Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg),,"Bacterial infections, pneumonia, bronchitis, tonsillitis, skin infections, urinary tract infections"
+240,Aztor Asp 75 Capsule,38.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Aspirin (75mg),"Myocardial infarction, stroke, angina, atherosclerosis, hyperlipidemia, transient ischemic attack"
+241,Alkacip Syrup,77.0,False,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (1.53gm/5ml),,"Urine alkalinization, uric acid kidney stones, cystine stones"
+242,Arbitel-Trio 50 Tablet ER,146.0,False,Micro Labs Ltd,allopathy,strip of 10 tablet er,Cilnidipine (10mg) , Metoprolol Succinate (50mg) ,Hypertension
+243,Acivir 200 DT Tablet,84.22,False,Cipla Ltd,allopathy,strip of 10 tablet dt,Acyclovir (200mg),,"Genital herpes, herpes labialis, chickenpox, shingles"
+244,Augmentin ES Oral Suspension,203.28,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 50 ml Oral Suspension,Amoxycillin  (600mg/5ml) ,  Clavulanic Acid (42.9mg/5ml),"bacterial infections, sinusitis, pneumonia, ear infections"
+245,Amrolstar Cream,235.71,False,Oaknet Healthcare Pvt Ltd,allopathy,tube of 30 gm Cream,Amorolfine (0.25% w/w),,"Onychomycosis, tinea pedis, tinea cruris, tinea corporis, tinea manuum"
+246,Adalene Nanogel Gel,325.0,False,Zydus Cadila,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w),Acne vulgaris
+247,Apigat 2.5 Tablet,720.0,False,Natco Pharma Ltd,allopathy,bottle of 30 tablets,Apixaban (2.5mg),,"Stroke prevention, systemic embolism prevention, deep vein thrombosis, pulmonary embolism"
+248,Aeromont-B Tablet,90.0,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Bilastine (20mg) , Montelukast (10mg),"Allergic rhinitis, Asthma, Urticaria"
+249,Amlopres 5 Tablet,97.1,False,Cipla Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+250,Abevia-N Tablet,167.5,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),"Cough, mucus, airway obstruction, bronchitis, asthma, COPD"
+251,Acamprol Tablet,105.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 6 tablets,Acamprosate (333mg),,Alcohol dependence
+252,Ancool  Oral Suspension Sugar Free,139.4,False,Zuventus Healthcare Ltd,allopathy,bottle of 170 ml Oral Suspension,Aluminium Hydroxide (300mg/5ml) , Milk Of Magnesia (150mg/5ml) ,"Heartburn, acid indigestion, sour stomach"
+253,Atormac CV10 Capsule,203.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Clopidogrel (75mg),
+254,Apdrops PD Eye Drop,43.72,False,Ajanta Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Moxifloxacin (0.5% w/v) , Prednisolone (1% w/v),"Bacterial conjunctivitis, inflammation of the eye"
+255,Amnurite  10 Tablet SR,140.9,False,Health N U Therapeutics Pvt Ltd,allopathy,strip of 10 tablet sr,Amitriptyline (10mg) , Methylcobalamin (1500mcg),"Neuropathic pain, peripheral neuropathy, diabetic neuropathy, fibromyalgia, postherpetic neuralgia, depression, migraine prophylaxis"
+256,Atonide Gel,125.0,False,Curatio Healthcare India Pvt Ltd,allopathy,tube of 20 gm Gel,Desonide (0.05% w/w),,"Eczema, Dermatitis, Psoriasis, Allergic reactions, Inflammation"
+257,Amlong-A Tablet,145.0,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+258,Acivir 500 Infusion,514.79,False,Cipla Ltd,allopathy,vial of 1 Infusion,Acyclovir (500mg),,"Herpes simplex virus infections, Varicella-zoster virus infections"
+259,AF-K Lotion,188.0,False,Systopic Laboratories Pvt Ltd,allopathy,bottle of 100 ml Lotion,Ketoconazole (2% w/v) , Zinc pyrithione (1% w/v),"Seborrheic dermatitis, dandruff, tinea versicolor"
+260,Amoxyclav 375 Tablet,356.92,False,Abbott,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+261,Abd 400mg Tablet,9.58,False,Intas Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),,"Hydatid disease, Neurocysticercosis, Pinworm infection, Hookworm infection, Ascariasis, Trichuriasis, Strongyloidiasis, Tapeworm infection"
+262,Amlong 2.5 Tablet,30.91,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (2.5mg),,"Hypertension, angina, coronary artery disease"
+263,Alburel 20gm Solution for Infusion,7325.23,False,Reliance Life Sciences,allopathy,bottle of 100 ml Injection,Albumin (20%),,unknown
+264,Anacin Tablet,22.5,True,Pfizer Ltd,allopathy,strip of 10 tablets,Caffeine (50mg) , Paracetamol (500mg),"Headache, fever, muscle ache, toothache, menstrual cramps"
+265,Azithro 250mg Tablet,57.08,False,Ind Swift Laboratories Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),,unknown
+266,Azimax 500 Tablet,119.5,False,Cipla Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+267,Amlosafe-AT Tablet,68.0,True,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+268,Air 180 Tablet,59.0,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Fexofenadine (180mg),,"Seasonal allergic rhinitis symptoms, chronic idiopathic urticaria symptoms"
+269,Adilip 135 Tablet DR,202.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 Tablet DR,Choline fenofibrate (135mg),,"Hypertriglyceridemia, mixed dyslipidemia"
+270,Apdrops Eye Drop,184.5,False,Ajanta Pharma Ltd,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),,
+271,Amlosafe 5 Tablet,28.16,True,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),,"Hypertension, Angina"
+272,Apigat 5 Tablet,855.0,False,Natco Pharma Ltd,allopathy,bottle of 30 tablets,Apixaban (5mg),,"Atrial fibrillation, stroke, systemic embolism, deep vein thrombosis, pulmonary embolism"
+273,Amlogard 5mg Tablet,91.86,False,Pfizer Ltd,allopathy,strip of 30 tablets,Amlodipine (5mg),,"Hypertension, Angina, Coronary artery disease"
+274,Amaryl MV 1mg Tablet SR,168.39,False,Sanofi India  Ltd,allopathy,strip of 15 tablet sr,Glimepiride (1mg) , Metformin (500mg) ,Type 2 diabetes mellitus
+275,Azee 500 Tablet,79.43,False,Cipla Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,"Bronchitis, pneumonia, sinusitis, pharyngitis, tonsillitis, skin infections, soft tissue infections, urethritis, cervicitis, chancroid"
+276,ALERGIN L TABLET,45.0,True,Cipla Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),,"Sneezing, runny nose, itchy eyes, watery eyes, hives, skin rash, itching"
+277,Aciloc Injection,6.03,False,Cadila Pharmaceuticals Ltd,allopathy,vial of 2 ml Injection,Ranitidine (25mg),,unknown
+278,Alex P Syrup,98.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (0.5mg/5ml) , Paracetamol (125mg/5ml) ,"Fever, pain, allergic rhinitis, common cold, flu."
+279,AZR Tablet,118.23,False,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),,unknown
+280,Angicam-Beta Tablet,37.0,False,Blue Cross Laboratories Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, angina"
+281,Amicobal 10mg/1500mcg Tablet,165.0,False,Ergos Life Sciences,allopathy,strip of 10 tablets,Amitriptyline (10mg) , Methylcobalamin (1500mcg),"Neuropathic pain, peripheral neuropathy, diabetic neuropathy, postherpetic neuralgia, fibromyalgia, depression"
+282,Actibile 300 Tablet,398.3,False,Zydus Cadila,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),,"Dissolving gallstones, primary biliary cholangitis"
+283,Ambrolite Levo Syrup,107.0,False,Tablets India Limited,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Levosalbutamol (1mg/5ml) ,"Cough with mucus, wheezing, shortness of breath"
+284,Amaryl M Forte 2mg Tablet PR,276.3,False,Sanofi India  Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (1000mg),Type 2 diabetes mellitus
+285,Acivir Cream,146.41,False,Cipla Ltd,allopathy,tube of 10 gm Cream,Acyclovir (5% w/w),,"Herpes simplex virus infections of the skin, mucocutaneous herpes simplex infections"
+286,Azicip 250 Tablet,106.0,True,Cipla Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),,unknown
+287,Algesia CR 200mg/20mg Capsule,121.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Aceclofenac (200mg) , Rabeprazole (20mg),"Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, pain, inflammation, heartburn, acid reflux, GERD, peptic ulcers"
+288,Ascoril Expectorant,142.0,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 200 ml Expectorant,Bromhexine (4mg) , Guaifenesin (100mg) ,"Productive cough, chest congestion"
+289,Atorva 80 Tablet,644.25,False,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (80mg),,"High cholesterol, hyperlipidemia, cardiovascular risk reduction, atherosclerosis"
+290,Acitrom 4 Tablet,565.25,False,Abbott,allopathy,strip of 30 tablets,Acenocoumarol (4mg),,"Blood clots, thromboembolism, atrial fibrillation, deep vein thrombosis, pulmonary embolism, prosthetic heart valves"
+291,Alsita 100mg Tablet,99.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Sitagliptin (100mg),,Type 2 diabetes mellitus
+292,Amnurite  5 mg/1500 mcg Tablet,126.4,False,Health N U Therapeutics Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (5mg) , Methylcobalamin (1500mcg),"Neuropathic pain, peripheral neuropathy, diabetic neuropathy, fibromyalgia"
+293,Airz Capsule,537.0,False,Glenmark Pharmaceuticals Ltd,allopathy,packet of 30 capsules,Glycopyrrolate (50mcg),,"Excessive salivation, peptic ulcers, excessive sweating, COPD"
+294,Asomex 5 Tablet,156.2,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 15 tablets,S-Amlodipine (5mg),,"Hypertension, Angina"
+295,Axcer  90mg Tablet,3600.0,False,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 180 tablets,Ticagrelor (90mg),,"Acute coronary syndrome, myocardial infarction, stroke"
+296,Anaspas Tablet,92.49,True,Abbott,allopathy,strip of 10 tablets,Camylofin (50mg) , Diclofenac (50mg),"Biliary colic, intestinal colic, renal colic, spasmodic dysmenorrhea, musculoskeletal pain"
+297,Ascabiol Emulsion,109.17,True,Abbott,allopathy,bottle of 100 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v),"Scabies, lice"
+298,Addwize 10mg Tablet,127.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Methylphenidate (10mg),,"ADHD, Narcolepsy"
+299,Ascoril Plus Expectorant,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 120 ml Expectorant,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) ,"Productive cough, chest congestion"
+300,Amlong 10 Tablet,94.58,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (10mg),,"Hypertension, Angina"
+301,Abd Plus Tablet,37.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 1 Tablet,Ivermectin  (6mg) ,  Albendazole (400mg),"Strongyloidiasis, Onchocerciasis, Helminth infections, Ascariasis, Hookworm infections, Whipworm infections, Pinworm infections"
+302,Allercet-M Tablet,152.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg),
+303,Augpen -DS Suspension,149.7,False,Zuventus Healthcare Ltd,allopathy,bottle of 30 ml Suspension,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+304,Althrocin Liquid,59.35,False,Alembic Pharmaceuticals Ltd,allopathy,bottle of 60 ml Oral Suspension,Erythromycin (125mg/5ml),,"Pneumonia, Bronchitis, Whooping cough, Diphtheria, Skin infections, Eye infections, Pelvic inflammatory disease, Syphilis, Urethritis, Acne"
+305,Atocor 10 Tablet,102.02,True,Dr Reddy's Laboratories Ltd,allopathy,strip of 14 tablets,Atorvastatin (10mg),,"High cholesterol, cardiovascular disease risk reduction"
+306,Augpen 625 BID Tablet,216.28,False,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg),"Pneumonia, bronchitis, sinusitis, otitis media, cellulitis, animal bites, urinary tract infection"
+307,Atchol-F Tablet,98.0,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Fenofibrate (160mg),"Hypertriglyceridemia, mixed dyslipidemia, high cholesterol"
+308,Alensol-D Tablet,267.0,False,Medsol India Overseas Pvt Ltd,allopathy,strip of 4 tablets,Alendronic Acid (70mg) , Vitamin D3 (5600IU),"Osteoporosis, Vitamin D deficiency"
+309,Arbitel-Trio 25 Tablet ER,118.0,False,Micro Labs Ltd,allopathy,strip of 10 tablet er,Cilnidipine (10mg) , Metoprolol Succinate (25mg) ,Hypertension
+310,Acivir Eye Ointment,58.11,False,Cipla Ltd,allopathy,tube of 5 gm Eye Ointment,Acyclovir (3% w/w),,Herpes simplex keratitis
+311,Aceclo Tablet,52.55,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg),,unknown
+312,Actrapid 100 IU/ml Flexpen,569.8,False,Novo Nordisk India Pvt Ltd,allopathy,flexpen of 3 ml Solution for Injection,Human insulin (100IU),,Diabetes mellitus
+313,Amitone 25mg Tablet,27.54,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg),,"Depression, Neuropathic pain, Migraine, Fibromyalgia, Bedwetting"
+314,Anafortan Syrup,101.73,False,Abbott,allopathy,bottle of 60 ml Syrup,Camylofin (12.5mg/5ml) , Paracetamol (125mg/5ml),"Abdominal pain, intestinal colic, biliary colic, renal colic, dysmenorrhea, fever"
+315,Acera-D Capsule SR,118.45,False,Ipca Laboratories Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg),"Nausea, vomiting, acid reflux, heartburn, dyspepsia, GERD, peptic ulcers"
+316,Aerodil SF Expectorant,118.5,False,Zydus Cadila,allopathy,bottle of 100 ml Expectorant,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) ,"Productive cough, chest congestion"
+317,Aculip H 12.5 mg/5 mg Tablet,73.2,False,Shine Pharmaceuticals Ltd,allopathy,strip of 20 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg),"Depression, anxiety"
+318,Aztolet  20 Tablet,246.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg) , Clopidogrel (75mg),"Myocardial infarction, stroke, angina, peripheral artery disease, acute coronary syndrome"
+319,Amlopin 5 Tablet,32.37,False,USV Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),,
+320,Arimidex 1mg Tablet,3435.0,True,AstraZeneca,allopathy,strip of 14 tablets,Anastrozole (1mg),,Breast cancer
+321,Alzil-M 5 Tablet,192.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Donepezil (5mg) , Memantine (5mg),Alzheimer's disease
+322,Acuvert Tablet,73.52,False,Abbott,allopathy,strip of 9 tablets,Prochlorperazine (5mg),,"Nausea, Vomiting, Vertigo, Schizophrenia, Anxiety"
+323,Alciflox 500mg Tablet,45.29,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),,unknown
+324,Azax 250 Tablet,71.02,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),,"Bacterial infections, pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, ear infections, chlamydia, gonorrhea"
+325,Aceclo Spas Tablet,125.9,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Aceclofenac (100mg),"Abdominal pain, dysmenorrhea, biliary colic, intestinal colic, uterine spasm"
+326,Asthakind-LS Drop,60.0,False,Mankind Pharma Ltd,allopathy,bottle of 15 ml Oral Drops,Ambroxol (NA) , Levosalbutamol (NA) ,"Cough with mucus, wheezing, shortness of breath"
+327,Ascabiol Emulsion,144.1,False,Abbott,allopathy,bottle of 120 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v),"Scabies, lice"
+328,Alphadol 0.25mcg Capsule,109.0,False,Panacea Biotec Ltd,allopathy,strip of 10 soft gelatin capsules,Alfacalcidol (0.25mcg),,"Renal osteodystrophy, osteomalacia, rickets, hypoparathyroidism, pseudohypoparathyroidism"
+329,Alex Cough Lozenges Sugar Free,111.0,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 lozenges,Dextromethorphan Hydrobromide (5mg),,Cough
+330,Arip MT 10 Tablet,105.5,True,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),,"Schizophrenia, Bipolar I disorder, Irritability associated with autistic disorder, Tourette's syndrome"
+331,Anabel Liquid Gel,100.0,False,Group Pharmaceuticals Ltd,allopathy,bottle of 15 gm Dental Gel,Choline Salicylate (8.7% w/w) , Lidocaine (2% w/w),"Mouth ulcers, teething pain, denture pain, sore gums"
+332,Aricep 5 Tablet,138.0,False,Eisai Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 tablets,Donepezil (5mg),,Alzheimer's disease
+333,Amlosafe-AT Tablet,102.0,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+334,Aceclo SR Tablet,77.3,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Aceclofenac (200mg),,"Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, joint pain"
+335,Azopt Opthalmic Suspension,547.0,False,Alcon Laboratories,allopathy,bottle of 5 ml Eye Drop,Brinzolamide (1% w/v),,"Elevated intraocular pressure, ocular hypertension, open-angle glaucoma"
+336,Amitop 10 Tablet,25.19,False,Tas Med India Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),,"Depression, neuropathic pain, migraine prophylaxis, nocturnal enuresis"
+337,Ambulax M Tablet,89.25,False,Unimarck Pharma India Ltd,allopathy,strip of 15 tablets,Alprazolam (0.25mg) , Propranolol (10mg),"Anxiety, Panic disorder, Tremors, Tachycardia, Hypertension"
+338,Alcipro 500mg Tablet,40.53,True,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),,
+339,Assurans Tablet,350.09,False,Cipla Ltd,allopathy,strip of 15 tablets,Sildenafil (20mg),,"Erectile dysfunction, Pulmonary hypertension"
+340,Augpen LB 625 Tablet,439.8,False,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Amoxycillin (500mg) , Clavulanic Acid (125mg) ,unknown
+341,Alkaliser Syrup,45.0,False,Life Sciences Inc,allopathy,bottle of 100 ml Syrup,Disodium Hydrogen Citrate (NA),,"Urinary alkalinization, uric acid kidney stones, cystitis, gout"
+342,Aquaviron 40mg Capsule,193.6,False,Abbott,allopathy,strip of 10 capsules,Testosterone (40mg),,"Hypogonadism, delayed puberty, breast cancer"
+343,Angiwell 2.6mg Tablet,197.6,False,Corona Remedies Pvt Ltd,allopathy,packet of 30 tablets,Nitroglycerin (2.6mg),,Angina pectoris
+344,Anaflam TH  4  Tablet,180.83,False,Albert David Ltd,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) ,"Muscle spasm, pain, inflammation"
+345,Alzil 5 Tablet,130.38,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Donepezil (5mg),,Alzheimer's disease
+346,Amlo 5mg Tablet,24.4,False,Mano Pharma Pvt Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),,"Hypertension, Angina, Coronary artery disease"
+347,Asthalin Plus Expectorant,95.16,False,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Levosalbutamol (0.5mg/5ml) ,Cough with mucus
+348,Ascabiol Emulsion,86.68,False,Abbott,allopathy,bottle of 60 ml Solution,Lindane (1% w/v) , Cetrimide (0.1% w/v),"Scabies, lice"
+349,Amitone Plus Tablet,37.5,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Amitriptyline (12.5mg) , Chlordiazepoxide (5mg),"Depression, anxiety"
+350,Akt 2 Tablet,103.6,False,Lupin Ltd,allopathy,strip of 10 tablets,Rifampicin (450mg) , Isoniazid (300mg),Tuberculosis
+351,Alex Plus Paediatric Oral Drops,73.0,False,Glenmark Pharmaceuticals Ltd,allopathy,packet of 15 ml Oral Drops,Chlorpheniramine Maleate (2mg/ml) , Phenylephrine (2.5mg/ml),"Runny nose, nasal congestion, sneezing, itchy nose, watery eyes"
+352,Antacid Tablet,2.0,False,Bevit Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aluminium Hydroxide (250mg) , Magnesium (250mg) ,"Heartburn, acid indigestion, sour stomach"
+353,Apresol Tablet,145.64,False,Ordain Health Care Global Pvt Ltd,allopathy,strip of 15 tablets,Dihydralazine (25mg),,Hypertension
+354,Atchol 40 Tablet,96.22,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (40mg),,"High cholesterol, hyperlipidemia, cardiovascular disease risk reduction, stroke risk reduction, heart attack risk reduction"
+355,Amlong-H Tablet,115.0,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Hydrochlorothiazide (12.5mg),Hypertension
+356,Airz-FF Capsule,535.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 30 capsules,Glycopyrrolate (12.5mcg) , Formoterol (12mcg) ,"COPD, asthma"
+357,Arflur 3D Tablet,74.75,False,FDC Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) ,"Headache, muscle pain, toothache, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+358,Azmarda 200mg Tablet,669.38,False,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 7 tablets,Sacubitril (97mg) , Valsartan (103mg),"Heart failure, reduced ejection fraction"
+359,Amixide 10mg Tablet,63.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg) , Chlordiazepoxide (10mg),"Depression, anxiety."
+360,Avomine 25mg Tablet MD,24.58,True,Abbott,allopathy,strip of 8 tablet md,Promethazine (25mg),,"Motion sickness, nausea, vomiting, vertigo, allergic reactions, sedation"
+361,Arpizol 2mg Tablet,64.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Aripiprazole (2mg),,"Schizophrenia, Bipolar I disorder, Manic episodes, Mixed episodes, Irritability, Tourette's syndrome"
+362,Ascodex Cough Syrup,23.12,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Dextromethorphan Hydrobromide (5mg) ,"Cough, mucus"
+363,Aerocort Forte Rotacap,95.16,False,Cipla Ltd,allopathy,packet of 30 rotacaps,Levosalbutamol (100mcg) , Beclometasone (200mcg),"Wheezing, shortness of breath, coughing, asthma, chronic obstructive pulmonary disease"
+364,AF 200 Tablet,14.45,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (200mg),,
+365,Aquasurge  Eye Drop,152.21,False,Ipca Laboratories Ltd,allopathy,packet of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),,"Dry eye symptoms, eye irritation"
+366,Atorva Asp 75 Capsule,44.35,False,Zydus Cadila,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Aspirin (75mg),"Myocardial infarction, stroke, angina, atherosclerosis, hypercholesterolemia, cardiovascular events"
+367,Azivent 500 Tablet,96.12,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 5 tablets,Azithromycin (500mg),,unknown
+368,Azithral Eye Ointment,146.0,False,Alembic Pharmaceuticals Ltd,allopathy,tube of 5 gm Eye Ointment,Azithromycin (1% w/w),,Bacterial conjunctivitis
+369,Adtrol XT Tablet,302.7,False,Wanbury Ltd,allopathy,strip of 15 tablets,Calcium Carbonate (1250mg) , Vitamin D3 (2000mg) ,"Calcium deficiency, Vitamin D deficiency, Osteoporosis"
+370,Aqualube Eye Drop,155.27,False,Ajanta Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),,"Dry eye symptoms, eye irritation"
+371,Antisnake Venom Injection,992.42,False,Serum Institute Of India Ltd,allopathy,vial of 10 ml Injection,Standard Cobra Venom (Naja naja) (0.6mg) , Standard common krait Venom (Bangarus caeruleus) (0.45mg) ,"Cobra envenomation, Kra"
+372,Acrotac 25mg Capsule,1570.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 20 capsules,Acitretin (25mg),,"Psoriasis, Keratosis, Palmoplantar pustulosis"
+373,Azathioprine 50mg Tablet,104.27,False,Care Formulation Labs Pvt Ltd,allopathy,strip of 10 tablets,Azathioprine (50mg),,unknown
+374,Amrolstar Nail Lacquer,438.69,False,Oaknet Healthcare Pvt Ltd,allopathy,bottle of 2.5 ml Nail Lacquer,Amorolfine (5% w/v),,Onychomycosis
+375,Allercet-M Syrup,104.0,False,Micro Labs Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml),"Runny nose, sneezing, itchy nose, itchy throat, itchy eyes, watery eyes, allergic rhinitis, asthma"
+376,Atchol 10 Tablet,24.71,True,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg),,"High cholesterol, hyperlipidemia, cardiovascular risk"
+377,Alphagan Z Ophthalmic Solution,485.43,False,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Brimonidine (0.1% w/v) , Stabilized Oxychloro (0.005% w/v),"Elevated intraocular pressure, open-angle glaucoma, ocular hypertension"
+378,Acutret 10 Capsule,205.5,False,Ipca Laboratories Ltd,allopathy,strip of 10 soft gelatin capsules,Isotretinoin (10mg),,"Severe acne, nodulocystic acne"
+379,Acnedap Gel,398.23,False,Cipla Ltd,allopathy,tube of 15 gm Gel,Dapsone (5% w/w),,Acne vulgaris
+380,Amoxycillin 125mg Oral Suspension,7.5,False,Nestor Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin (125mg),,"bacterial infections, bronchitis, pneumonia, tonsillitis"
+381,Advanced LCF Kid Expectorant,51.7,False,Lupin Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) ,"Productive cough, chest congestion"
+382,Amitryn 10 Tablet,84.3,False,KC Laboratories,allopathy,strip of 30 tablets,Amitriptyline (10mg),,"Depression, neuropathic pain, migraine prophylaxis, bedwetting"
+383,Amtas-AT Tablet,141.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+384,Accentrix Solution for Injection,23960.0,True,Novartis India Ltd,allopathy,vial of 1 Solution for Injection,Ranibizumab (10mg/ml),,unknown
+385,Arpizol 10 Tablet,141.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),,"Schizophrenia, Bipolar I disorder, Mania, Mixed episodes, Depression, Irritability, Tourette's syndrome"
+386,Alkasol Oral Solution,208.82,False,Stadmed Pvt Ltd,allopathy,bottle of 200 ml Oral Solution,Disodium Hydrogen Citrate (1.4gm/5ml),,"Gout, kidney stones, metabolic acidosis, urine alkalinization"
+387,Aldactone 100 Tablet,211.05,False,RPG Life Sciences Ltd,allopathy,strip of 15 tablets,Spironolactone (100mg),,"Heart failure, edema, ascites, hypertension, hyperaldosteronism, hypokalemia, hirsutism, acne, androgenetic alopecia"
+388,Aztogold 20 Capsule,85.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Aspirin (75mg) , Atorvastatin (20mg) ,"Myocardial infarction, stroke, angina, hypercholesterolemia, atherosclerosis"
+389,Addna Tablet,60.0,False,Steadfast Medishield Pvt Ltd,allopathy,strip of 10 tablets,Sodium Chloride (1gm),,"Dehydration, hyponatremia"
+390,Amtas-M 50 Tablet PR,204.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg),"Hypertension, Angina"
+391,Akilos-P Tablet,22.7,False,Unison Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg),"Headache, toothache, back pain, joint pain, muscle pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+392,Avas CV 10 Capsule,111.0,False,Micro Labs Ltd,allopathy,strip of 10 capsules,Atorvastatin (10mg) , Clopidogrel (75mg),"Myocardial infarction, stroke, angina, peripheral artery disease"
+393,Actilyse 50mg Injection,49899.0,False,Boehringer Ingelheim,allopathy,vial of 1 Injection,Alteplase (50mg),,
+394,Acceclowoc-SP Tablet,121.1,False,Tridoss Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, fever, toothache, back pain, muscle pain, joint pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis"
+395,Amodep AT Tablet,38.5,True,FDC Ltd,allopathy,strip of 14 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+396,Amlopres AT 25 Tablet,110.52,False,Cipla Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (25mg),"Hypertension, Angina"
+397,Acular LS Ophthalmic Solution,141.3,False,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Ketorolac (0.4% w/v),,"Ocular itching, postoperative inflammation"
+398,Anxipan Capsule,140.0,False,Medley Pharmaceuticals,allopathy,strip of 10 capsules,Amitriptyline (10mg) , Pantoprazole (40mg),"Depression, anxiety, neuropathic pain, irritable bowel syndrome, dyspepsia, GERD, esophagitis, peptic ulcer"
+399,Advent 91.4mg Drops Tangy Orange,105.8,False,Cipla Ltd,allopathy,bottle of 10 ml Oral Drops,Amoxycillin  (80mg) ,  Clavulanic Acid (11.4mg),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+400,Azee XL 200mg Dry Syrup Peppermint,114.55,False,Cipla Ltd,allopathy,bottle of 30 ml Dry Syrup,Azithromycin (200mg/5ml),,"bacterial infections, pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, ear infections"
+401,Abevia 100 Capsule,95.0,False,Mankind Pharma Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),,"Chronic bronchitis, asthma, COPD"
+402,Alex Oral Drops Orange,68.0,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 15 ml Oral Drops,Chlorpheniramine Maleate (1mg/ml) , Phenylephrine (2.5mg/ml),"Runny nose, nasal congestion, sneezing, itchy nose, watery eyes"
+403,Amoxyclav DS Syrup,60.48,True,Abbott,allopathy,bottle of 30 ml Syrup,Amoxycillin  (400mg/5ml) ,  Clavulanic Acid (57mg/5ml),"Bacterial infections, pneumonia, bronchitis, sinusitis, otitis media, skin infections, urinary tract infections"
+404,Alcoliv Tablet,195.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Metadoxine (500mg),,"Alcohol liver disease, hepatic steatosis"
+405,Anosum Cream,98.0,False,Samarth Life Sciences Pvt Ltd,allopathy,tube of 20 gm Rectal Cream,Lidocaine (4% w/w) , Metronidazole (1% w/w) ,"Anal fissures, hemorrhoids, perianal discomfort"
+406,Amlovas-M 5/50 Tablet PR,133.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg),"Hypertension, Angina"
+407,Alkamax MB Alkamax MB6 Oral Solution,197.5,False,Overseas Healthcare Pvt Ltd,allopathy,bottle of 200 ml Oral Solution,Potassium Citrate (1100mg/5ml) , Magnesium Citrate (375mg/5ml) ,"Kidney stones, Uric acid reduction in urine"
+408,Amlosafe TM 40 Tablet,83.0,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg),"Hypertension, high blood pressure"
+409,Apetamin Syrup,164.0,False,Tablets India Limited,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml),,"Allergic rhinitis, perennial allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis, angioedema, cold urticaria, dermatographism."
+410,Aceflam P 100mg/325mg Tablet,58.25,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, back pain, joint pain, muscle pain, fever"
+411,Ascovent -SR Tablet,236.5,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),,"Chronic bronchitis, asthma, COPD"
+412,Amaryl 3mg Tablet,438.43,False,Sanofi India  Ltd,allopathy,strip of 30 tablets,Glimepiride (3mg),,Type 2 diabetes mellitus
+413,Acotrust  Tablet,198.0,True,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Acotiamide (100mg),,Functional dyspepsia
+414,Acupat Ophthalmic Solution,218.24,False,Allergan India Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Ketorolac (0.4% w/v) , Olopatadine (0.1% w/v),"Ocular itching, allergic conjunctivitis, postoperative ocular inflammation, ocular pain"
+415,Arcolane 2% Scalp Solution,410.0,False,Galderma India Pvt Ltd,allopathy,bottle of 60 ml Solution,Ketoconazole (2% w/v),,"Seborrheic dermatitis, Pityriasis versicolor"
+416,Atropine 1% Eye Drop,19.88,False,Pharmatak Opthalmics Pvt Ltd,allopathy,packet of 5 ml Eye Drop,Atropine (1% w/v),,"Cycloplegia, mydriasis, amblyopia"
+417,Amyclox-LB Capsule,149.3,False,Ind Swift Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Cloxacillin (250mg) ,Bacterial infections
+418,Alamin Injection,149.3,False,Albert David Ltd,allopathy,vial of 20 ml Injection,Methylcobalamin (NA),,"Peripheral neuropathy, diabetic neuropathy, megaloblastic anemia"
+419,Aquim PF Eye Drop,590.0,False,His Eyeness Ophthalmics Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.18% w/v),,Dry eye symptoms
+420,Arbitel-AM Tablet,156.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg),
+421,Aprecap 125/80 Capsule,1096.0,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 3 capsules,Aprepitant (125mg) , Aprepitant (80mg),"Chemotherapy-induced nausea, Chemotherapy-induced vomiting"
+422,AB Phylline Syrup,178.0,False,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 100 ml Syrup,Acebrophylline (10mg/ml),,"COPD, asthma, bronchitis"
+423,Azeflo FT Nasal Spray,525.2,False,Lupin Ltd,allopathy,packet of 70 MDI Nasal Spray,Fluticasone Propionate (27.5mcg) , Azelastine (140mcg),Allergic rhinitis symptoms
+424,Atorva F Tablet,107.0,True,Zydus Cadila,allopathy,strip of 10 tablets,Atorvastatin (10mg) , Fenofibrate (160mg),"High cholesterol, high triglycerides, mixed dyslipidemia"
+425,Amicline Plus Tablet,84.5,False,Franco-Indian Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ornidazole (250mg) , Diloxanide (375mg),"Amoebiasis, giardiasis, trichomoniasis, bacterial vaginosis, anaerobic bacterial infections, intestinal amoebiasis"
+426,Acimol MR 100mg/325mg/250mg Tablet,65.0,False,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, fever, muscle pain, joint pain, back pain, toothache"
+427,Abiways Tablet,251.25,False,Mankind Pharma Ltd,allopathy,strip of 15 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg),"Cough, bronchitis, asthma, COPD, airway mucus hypersecretion"
+428,Asthakind Tablet,35.04,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Guaifenesin (100mg) , Terbutaline (2.5mg) ,"Cough, wheezing, shortness of breath, chest tightness"
+429,Aprezo 10 Tablet,90.0,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Apremilast (10mg),,"Psoriatic arthritis, plaque psoriasis"
+430,Air 120 Tablet,49.0,False,Systopic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),,"Seasonal allergic rhinitis symptoms, chronic idiopathic urticaria symptoms"
+431,Amoxycillin  250mg Capsule,38.0,False,Torque Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg),,"bacterial infections, bronchitis, pneumonia, tonsillitis"
+432,Acenac SP 100mg/325mg/15mg Tablet,101.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) ,"Headache, fever, toothache, back pain, muscle pain, joint pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, period pain"
+433,Aginal-AT Tablet,102.3,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Atenolol (50mg),"Hypertension, Angina"
+434,Allrite DC Tablet ER,127.95,False,Zydus Cadila,allopathy,strip of 10 tablet er,Levocetirizine (5mg) , Phenylephrine (20mg),"Runny nose, nasal congestion, sneezing, itchy nose, watery eyes, post-nasal drip."
+435,Asthalin 2 Tablet,6.04,False,Cipla Ltd,allopathy,strip of 30 tablets,Salbutamol (2mg),,"Wheezing, shortness of breath, chest tightness, asthma, chronic obstructive pulmonary disease"
+436,Arip MT 2 Tablet,90.6,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Aripiprazole (2mg),,"Schizophrenia, Bipolar I disorder, Irritability, Tourette's syndrome"
+437,Alcet 5mg Tablet,91.0,False,Prism Life Sciences Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),,"Hay fever, allergic rhinitis, urticaria"
+438,Aplazar Tablet,390.0,False,Steadfast Medishield Pvt Ltd,allopathy,strip of 10 tablets,Alpha Ketoanalogue (200mg),,"Chronic kidney disease, hyperphosphatemia, metabolic acidosis"
+439,Amicon 10 Tablet,25.5,False,Icon Life Sciences,allopathy,strip of 10 tablets,Amitriptyline (10mg),,"Depression, neuropathic pain, migraine prophylaxis, nocturnal enuresis"
+440,Amaryl M Forte 1mg Tablet PR,211.3,False,Sanofi India  Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (1000mg),"Type 2 diabetes, hyperglycemia"
+441,Amicline Tablet,13.0,False,Franco-Indian Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Diloxanide (500mg),,Amoebiasis
+442,Acivir IV Injection,441.77,False,Cipla Ltd,allopathy,vial of 1 Injection,Acyclovir (25mg/ml),,"Herpes simplex virus infections, Varicella-zoster virus infections"
+443,ATM 200 Oral Suspension,57.46,False,Indoco Remedies Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),,unknown
+444,Apidra Solostar 100IU/ml Injection,880.36,False,Sanofi India  Ltd,allopathy,pre-filled pen of 3 ml Solution for Injection,Insulin Glulisine (100IU/ml),,"Type 1 diabetes, Type 2 diabetes"
+445,AB2 Kit,408.35,False,Ajanta Pharma Ltd,allopathy,strip of 5 tablets,Mifepristone (200mg) , Misoprostol (200mcg),Pregnancy termination
+446,Amitryn 10 Tablet,25.5,False,KC Laboratories,allopathy,strip of 10 tablets,Amitriptyline (10mg),,"Depression, neuropathic pain, migraine, nocturnal enuresis"
+447,Atarax 25mg Injection,22.45,False,Dr Reddy's Laboratories Ltd,allopathy,ampoule of 2 ml Injection,Hydroxyzine (25mg),,"Pruritus, anxiety, sedation, nausea, vomiting"
+448,Afoglip M  500 Tablet ER,255.8,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablet er,Metformin (500mg) , Teneligliptin (20mg),Type 2 diabetes mellitus
+449,Amlozaar Tablet,166.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Amlodipine (5mg),
+450,Abel 40 Tablet,126.8,False,Lupin Ltd,allopathy,strip of 10 tablets,Azilsartan medoxomil (40mg),,Hypertension
+451,Acolate Plus Tablet,52.0,False,Gujarat Terce Laboratories Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (5mg) ,"Runny nose, sneezing, itchy nose, watery eyes, nasal congestion"
+452,Ampilox DS Tablet,213.7,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Ampicillin (500mg) , Dicloxacillin (500mg),Bacterial infections
+453,Asthalin Rotacaps,21.62,True,Cipla Ltd,allopathy,packet of 30 capsules,Salbutamol (200mcg),,"Wheezing, shortness of breath, chest tightness, coughing"
+454,Asthalin DX Syrup,87.84,False,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) ,"Nasal congestion, runny nose, sneezing, cough"
+455,Asthalin Rotacaps,52.31,False,Cipla Ltd,allopathy,bottle of 60 capsules,Salbutamol (200mcg),,"Wheezing, shortness of breath, chest tightness, asthma, bronchospasm"
+456,Atorlip 20 Tablet,247.8,False,Cipla Ltd,allopathy,strip of 15 tablets,Atorvastatin (20mg),,"High cholesterol, cardiovascular risk reduction"
+457,Altacef 500 Tablet,1040.0,False,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),,"Bacterial infections, bronchitis, pneumonia, skin infections, tonsillitis, pharyngitis, urinary tract infections, sinusitis"
+458,Amlokind 2.5 Tablet,32.7,False,Mankind Pharma Ltd,allopathy,strip of 30 tablets,Amlodipine (2.5mg),,"Hypertension, angina, coronary artery disease"
+459,Ambistryn-S 0.75gm Injection,10.2,False,Abbott,allopathy,vial of 1 Powder for Injection,Streptomycin (0.75gm),,"Tuberculosis, bacterial endocarditis, tularemia, plague, brucellosis"
+460,Ambulax-ET Tablet,60.0,False,Unimarck Pharma India Ltd,allopathy,strip of 10 tablets,Etizolam (0.5mg) , Propranolol (20mg),"Anxiety, panic disorder, insomnia, hypertension, tremors, palpitations, stage fright, migraine prophylaxis"
+461,Acceclowoc-P Tablet,60.09,False,Wockhardt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg),"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+462,Alprax Forte 0.5 mg/50 mg Tablet,99.6,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg) , Sertraline (50mg),"Panic disorder, major depressive disorder"
+463,Alsita-M 100 Tablet ER,129.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablet er,Sitagliptin  (100mg) ,  Metformin (500mg),"Type 2 diabetes, hyperglycemia"
+464,Axogurd NT Tablet SR,196.25,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Pregabalin (75mg) , Nortriptyline (10mg),"Postherpetic neuralgia, diabetic neuropathy, fibromyalgia"
+465,Aclind BP 2.5% Gel,215.0,False,Mohrish Pharmaceuticals,allopathy,tube of 15 gm Gel,Benzoyl Peroxide (2.5% w/w) , Clindamycin (1% w/w),Acne vulgaris
+466,Anxiset 0.5 Tablet,54.5,False,Obsurge Biotech Ltd,allopathy,strip of 10 tablets,Flupenthixol (0.5mg),,"Schizophrenia, psychosis"
+467,Atonide-H Cream,195.0,False,Curatio Healthcare India Pvt Ltd,allopathy,tube of 20 gm Cream,Hydrocortisone (1% w/w),,"Eczema, dermatitis, allergic reactions, rash, pruritus, inflammation"
+468,Aldonil Tablet,150.95,False,Zydus Cadila,allopathy,strip of 10 tablets,Epalrestat (50mg),,Diabetic neuropathy
+469,Anticold  Tablet,21.16,False,Surya Pharmaceutical Ltd,allopathy,strip of 10 tablets,Chlorpheniramine Maleate (NA) , Phenylephrine (NA),"Runny nose, sneezing, nasal congestion"
+470,Alcros 100 Capsule,166.0,False,Acme Generics LLP,allopathy,strip of 10 capsules,Itraconazole (100mg),,"Aspergillosis, Blastomycosis, Candidiasis, Coccidioidomycosis, Histoplasmosis, Onychomycosis, Tinea infections, Pityriasis versicolor"
+471,Azibact 200 Readymix Oral Suspension,57.46,False,Ipca Laboratories Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg/5ml),,unknown
+472,Atchol 20 Tablet,50.89,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg),,"High cholesterol, hyperlipidemia, cardiovascular risk reduction"
+473,Azibest 500mg Tablet,69.0,False,Blue Cross Laboratories Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),,"Pneumonia, bronchitis, sinusitis, pharyngitis, tonsillitis, skin infections, soft tissue infections, urethritis, cervicitis, chancroid"
+474,Amoxy 500mg Capsule,55.0,False,Blue Cross Laboratories Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),,"Pneumonia, bronchitis, tonsillitis, skin infections, urinary tract infections, sinusitis, ear infections, H. pylori infection"
+475,A-Ret 0.05% Gel,129.0,False,A. Menarini India Pvt Ltd,allopathy,tube of 20 gm Gel,Tretinoin (0.05% w/w),,Acne vulgaris
+476,Adenosine 3mg Injection,208.02,False,Samarth Life Sciences Pvt Ltd,allopathy,vial of 2 ml Injection,Adenosine (3mg),,Paroxysmal supraventricular tachycardia
+477,Ascoril Plus Tablet,32.5,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Guaifenesin (100mg) , Terbutaline (2.5mg) ,"Cough, chest congestion, wheezing, shortness of breath"
+478,Azulix 2 MF Forte Tablet PR,242.6,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (2mg) , Metformin (1000mg),Type 2 diabetes mellitus
+479,Amlokind-H Tablet,35.04,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Hydrochlorothiazide (12.5mg),Hypertension
+480,Aziderm 10% Gel,231.0,False,Micro Labs Ltd,allopathy,tube of 15 gm Gel,Azelaic Acid (10% w/w),,"Acne, rosacea"
+481,Amlopin-M Tablet PR,118.5,False,USV Ltd,allopathy,strip of 10 Tablet pr,Amlodipine (5mg) , Metoprolol Succinate (50mg),
+482,Ascodex Junior Syrup,76.5,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) ,"Nasal congestion, runny nose, sneezing, itchy nose, watery eyes"
+483,Alevo 500 Tablet,100.24,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),,"Pneumonia, bronchitis, sinusitis, skin infections, urinary tract infections, kidney infections, prostatitis, pyelonephritis"
+484,Avanair 200 Tablet,320.0,False,Cipla Ltd,allopathy,strip of 4 tablets,Avanafil (200mg),,Erectile dysfunction
+485,Atorlip 40 Tablet,239.9,False,Cipla Ltd,allopathy,strip of 10 tablets,Atorvastatin (40mg),,"High cholesterol, hyperlipidemia, cardiovascular disease, stroke prevention, heart attack prevention"
+486,Anafortan-MF 50mg/250mg Tablet,93.09,False,Abbott,allopathy,strip of 10 tablets,Camylofin (50mg) , Mefenamic Acid (250mg),"Muscle spasms, abdominal pain, dysmenorrhea"
+487,Amitriptyline Hcl 25mg Tablet,10.0,False,Densa Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (25mg),,"Depression, Neuropathic pain, Fibromyalgia, Migraine, Irritable bowel syndrome"
+488,Aqsusten  25 Solution for Injection,114.0,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 1 ml Solution for Injection,Progesterone (Natural Micronized) (25mg),,"Amenorrhea, abnormal uterine bleeding, luteal phase defect, threatened abortion, prevention of preterm birth"
+489,Amicet 5 mg/60 mg Tablet,49.0,False,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Ambroxol (60mg),"Runny nose, sneezing, itchy nose, itchy throat, allergic rhinitis, cough, chest congestion, mucus production"
+490,Amrox Junior Syrup,65.0,False,Leeford Healthcare Ltd,allopathy,bottle of 60 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) ,"Productive cough, chest congestion"
+491,ATM 250 Tablet,118.5,False,Indoco Remedies Ltd,allopathy,strip of 10 tablets,Azithromycin (250mg),,unknown
+492,Anawin Heavy 5mg Injection,30.45,False,Neon Laboratories Ltd,allopathy,vial of 4 ml Injection,Bupivacaine (5mg),,"Postoperative pain, labor pain, chronic pain, surgical anesthesia"
+493,Adaple-C Gel,272.0,False,Wallace Pharmaceuticals Pvt Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w),Acne vulgaris
+494,Aravon Injection,696.0,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 20 ml Injection,Edaravone (1.5mg),,Amyotrophic lateral sclerosis
+495,Akilos-SP Tablet,43.3,False,Unison Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) ,"Headache, toothache, muscle pain, joint pain, back pain, osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, fever"
+496,Amlozaar-H Tablet,143.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Amlodipine (5mg) ,Hypertension
+497,Alight Plus Gel,145.0,False,Leeford Healthcare Ltd,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w),Acne vulgaris
+498,Anaspas 25mg Injection,36.3,False,Abbott,allopathy,vial of 2 ml Injection,Camylofin (25mg) , Diclofenac (25mg),"Renal colic, biliary colic, intestinal colic, dysmenorrhea, postoperative pain"
+499,Azibact LR 100 Readymix,85.7,False,Ipca Laboratories Ltd,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (100mg/5ml),,"bronchitis, pneumonia, sinusitis, pharyngitis, tonsillitis, skin infections, soft tissue infections, urethritis, cervicitis"
+500,Aquazide 25 Tablet,20.9,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (25mg),,"Edema, hypertension"
